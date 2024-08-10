@@ -25,7 +25,7 @@ Let's connect if you're looking for a driven ML Engineer to innovate and make an
 <br>
 <hr>
 
-# Experiences <br>
+# 🎓 Experiences <br>
 ## 🧑🏼‍💻 Machine Learning Intern <br>
 [Prodigy InfoTech](https://www.linkedin.com/company/prodigy-infotech/) · Internship · Apr 2024 - May 2024 <br>
 Remote <br>
@@ -44,7 +44,7 @@ Meghnad Saha Institute Of Technology · On-site <br>
 <br>
 <hr>
 
-# Education
+# 🏫 Education
 1. [Meghnad Saha Institute of Technology](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/)<br>
 B.Tech in Computer Science Engineering with specialization in AIML · 2022 - 2026
 1. [Delhi Public School Ruby Park](https://www.linkedin.com/school/delhi-public-school-ruby-park/)<br>
