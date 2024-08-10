@@ -3,6 +3,9 @@ main:
   #- title: "Publications"
   # url: /publications/
 
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "Resume"
     url: https://drive.google.com/file/d/1K3cst7U5U3K01yYGuXIujTdas6NmF_Oi/view
 
@@ -12,8 +15,6 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
