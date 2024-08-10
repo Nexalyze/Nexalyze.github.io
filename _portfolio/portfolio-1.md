@@ -1,10 +1,9 @@
 ---
 title: "AI-Powered Flappy Bird Game Using NEAT Algorithm"
-excerpt: "Item 1<br/><img src='/images/Flappy3D_environment.png'>"
+excerpt: "Flappy Bird<br/><img src='/images/flappy.webp'>"
 collection: portfolio
 ---
 
-# AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm
 
 **Objective:**
 To develop an AI agent that can play the Flappy Bird game autonomously using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm for neural network evolution.
