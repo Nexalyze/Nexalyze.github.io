@@ -113,7 +113,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : G-CKCC7F7H67
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -335,3 +335,13 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CKCC7F7H67"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CKCC7F7H67');
+</script>
