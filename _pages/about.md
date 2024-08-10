@@ -7,23 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![Artifical Neural Networks](/images/artificalneuralnetworks.webp){: .align-right width="300px"}
 👨‍💻 I’m a 3rd-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at [Meghnad Saha Institute of Technology](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/).
 <br>
+
 🔬 My research interests lie in deep learning, neural networks, and creating impactful ML models.
 <br>
+
 📚 I’m currently working on projects like predicting real-estate costs and exploring energy consumption patterns, with a strong focus on applying machine learning techniques.
 <br>
+
 🎓 I aspire to become an ML Engineer, developing models that help explore the unknowns of the universe and define the existence of life.
 <br>
+
 Let's connect if you're looking for a driven ML Engineer to innovate and make an impact together.
 
 <br>
 
-# Experiences
-
-======
-
+# Experiences <br>
 ## Machine Learning Intern <br>
 [Prodigy InfoTech](https://www.linkedin.com/company/prodigy-infotech/) · Internship · Apr 2024 - May 2024 <br>
 Remote <br>
@@ -42,7 +43,6 @@ Meghnad Saha Institute Of Technology · On-site <br>
 <br>
 
 # Education
-======
 1. [Meghnad Saha Institute of Technology](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/)<br>
 B.Tech in Computer Science Engineering with specialization in AIML · 2022 - 2026
 1. [Delhi Public School Ruby Park](https://www.linkedin.com/school/delhi-public-school-ruby-park/)<br>
