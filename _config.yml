@@ -335,13 +335,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CKCC7F7H67"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-CKCC7F7H67');
-</script>
