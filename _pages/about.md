@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I am Sourish!" {font side : 15}
+title: "👋🏼 Hello there, I am Sourish!"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -39,8 +39,8 @@ Remote <br>
 Meghnad Saha Institute Of Technology · On-site <br>
 1. Analyzed and visualized stock market trends using large datasets
 1. Developed data-driven insights to guide strategic decision-making
-1. Collaborated with a multidisciplinary team to refine data analysis methodologies <br>
-[Github](https://github.com/Nexalyze/Data-Analysis-of-NIFTY-50-Dataset)|[Certificate](https://drive.google.com/file/d/1SuaJ0b2P5EgZkDH_D8b4AQpKMd0qZIxT/view)
+1. Collaborated with a multidisciplinary team to refine data analysis methodologies <br>  
+[Github](https://github.com/Nexalyze/Data-Analysis-of-NIFTY-50-Dataset) | [Certificate](https://drive.google.com/file/d/1SuaJ0b2P5EgZkDH_D8b4AQpKMd0qZIxT/view)
 <br>
 <hr>
 
