@@ -1,19 +1,30 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a dedicated Machine Learning Engineer and Data Scientist with a strong foundation in AI and ML. Passionate about developing innovative solutions, I strive to leverage data to uncover insights and drive impactful change.
+<br>
+As a 3rd-year Computer Science Engineering student specializing in AI and ML at Meghnad Saha Institute of Technology, I bring hands-on experience in predictive modeling and data analysis. I've developed projects like real-estate cost prediction, stock market analysis, sentiment analysis for restaurant reviews, and an AI-powered Flappy Bird game.
+<br>
+My internships at Prodigy Infotech and the Academy of Skill Development have strengthened my skills in Python, Pandas, NumPy, and Scikit-learn, as well as data visualization and teamwork. I aim to work for top tech companies like DRDO, Google, Microsoft, or Apple, developing ML models to explore the universe and understand life's complexities.
+<br>
+Let's connect if you're looking for a driven ML Engineer to innovate and make an impact together.
+<br>
 
-A data-driven personal website
+Experiences
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Machine Learning Intern 
+Prodigy InfoTech · Internship
+Apr 2024 - May 2024 · 2 mosApr 2024 to May 2024 · 2 mos
+Remote
+1. Completed four machine learning projects, including image classification and predictive modeling
+1. Designed, implemented, and optimized ML algorithms
+1. Collaborated with cross-functional teams to deliver high-quality solutions
 
 Getting started
 ======
