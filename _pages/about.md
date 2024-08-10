@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About Me"
+title: "👋🏼 Hello there, I am Sourish!"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
