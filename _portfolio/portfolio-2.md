@@ -1,5 +1,5 @@
 ---
-title: "The Nifty 50 Stock Prediction using"
+title: "The Nifty 50 Stock Prediction using Machine Learning"
 excerpt: "<br>Nift-50<br/><img src='/images/nifty50.webp'>"
 collection: portfolio
 ---
