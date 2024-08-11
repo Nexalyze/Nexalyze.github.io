@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Resume"
+  - title: "CV"
     url: https://drive.google.com/file/d/1U61rLCHE2UWEHZAdz6HcnXc-P0r2srMQ/view?usp=sharing
   
   #- title: "Publications"
   #  url: /publications/
     # url: https://scholar.google.com/citations?hl=en&user=xmVtweIAAAAJ
 
-  - title: "Portfolio Projects"
+  - title: "Portfolio"
     url: /portfolio/
         
   # - title: "Blog Posts"
