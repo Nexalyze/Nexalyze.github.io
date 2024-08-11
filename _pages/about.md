@@ -43,6 +43,14 @@ Meghnad Saha Institute Of Technology · On-site <br>
 <br>
 <hr>
 
+# My Technical Skills
+* Programming Languages — Python, Java, C
+* Tools & Libraries — Pandas, Numpy, Matplotlib, Scikit-learn, Streamlit
+* Data Analysis — Data Preprocessing, Data Cleaning, Data Visualization
+* Platforms — Google Cloud, GitHub, Git (Basic)
+* Other — Google Colab, Jupyter Notebooks, VS Code
+<hr>
+
 # 🏫 Education
 1. [Meghnad Saha Institute of Technology](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/)<br>
 B.Tech in Computer Science Engineering with specialization in AIML · 2022 - 2026
