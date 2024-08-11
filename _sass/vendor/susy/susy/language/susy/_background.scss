@@ -96,7 +96,7 @@ $susy-overlay-grid-head-exists: false;
 // [Private] Overlay Trigger Hover
 // -------------------------------
 @mixin overlay-trigger-hover {
-  background: rgba(white, .5);
+  background: rgba(rgb(0, 0, 0), .5);
   color: red;
 }
 
@@ -121,8 +121,8 @@ $susy-overlay-grid-head-exists: false;
   #{$_horz}: 10px;
   #{$_vert}: 10px;
   z-index: 999;
-  color: #333;
-  background: rgba(white, .25);
+  color: #ffffff;
+  background: rgba(rgb(0, 0, 0), .25);
 }
 
 
