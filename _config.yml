@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Suryateja's Devfolio"
+title                    : "Sourish's Homepage"
 title_separator          : "-"
-name                     : &name "Suryateja Challa"
+name                     : &name "Sourish Chatterjee"
 description              : &description "personal description"
-url                      : https://surtecha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Nexalyze.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "surtecha/surtecha.github.io"
+repository               : "Nexalyze/Nexalyze.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Suryateja Challa"
+  name             : "Sourish Chatterjee"
   avatar           : "profile.png"
-  bio              : "Undergraduate Researcher\n specializing in Machine Learning"
-  location         : "Bengaluru, India"
+  bio              : "Undergraduate CSE Engineer\n specializing in AI/ML"
+  location         : "West Bengal, India"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xmVtweIAAAAJ&hl=en"
-  email            : "suryatejachalla.dev@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "contact.sourishchatterjee@gmail.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "surtecha"
+  github           : "Nexalyze"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "sourish.ml"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "suryatejachalla"
+  linkedin         : "sourish-chatterjee"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "sourish_ml"
   vine             :
   weibo            :
   xing             :

@@ -1,11 +1,10 @@
 # main links links
 main:
   - title: "CV"
-  #   # url: /cv/
     url: /files/Resume.pdf
   
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
     # url: https://scholar.google.com/citations?hl=en&user=xmVtweIAAAAJ
 
   - title: "Portfolio Projects"

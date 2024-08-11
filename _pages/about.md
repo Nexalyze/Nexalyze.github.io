@@ -10,29 +10,47 @@ redirect_from:
 
 
 
-![GIF of a computer](/images/computer.gif){: .align-right width="200px"}
-👨🏻‍💻 I'm a penultimate year undergraduate majoring in Computer Science.
+(<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/PjJ1cLHqLEveXysGDB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/digital-brain-ai-PjJ1cLHqLEveXysGDB">via GIPHY</a></p>){: .align-right width="200px"}
 
-🔬 Pursuing academic interdisciplinary research at the intersection of machine learning.
+<br>
 
-📚 My interests include deep learning, computer vision, automation, robotics and geospatial data analysis.
+👨‍💻 I’m a 3rd-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at [Meghnad Saha Institute of Technology](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/).
 
-💻 I'm currently working on [Multi-Physics Simulation Engine](https://github.com/surtecha/multi-physics-simulation-engine) and [karman](https://github.com/surtecha/karman)
+🔬 My research interests lie in deep learning, neural networks, and creating impactful ML models.
 
-# Selected Experience
+📚 I’m currently working on projects like predicting real-estate costs and exploring energy consumption patterns, with a strong focus on applying machine learning techniques.
 
-## 📜 Research
-As a **Student Researcher**, I have gained significant experience in academic research, including the development of a novel method for identifying optimal growth locations for endangered medicinal herbs. 
+🎓 I aspire to become an ML Engineer, developing models that help explore the unknowns of the universe and define the existence of life.
 
-This work received recognition, earning me an invitation to present at the prestigious **IC2E3-2023** international conference hosted by the National Institute of Technology, Uttarakhand, India. 
+Let's connect if you're looking for a driven ML Engineer to innovate and make an impact together.
 
-Building on this initiative, I led a long-term research project that resulted in a publication in **Scientific Reports** of the **Nature Portfolio**.
+<hr>
 
-## 👨🏻‍🔬 Professional Experience
-In my role as an **App Development Intern** at a respected multispecialty hospital in South India, I undertook a pivotal capstone project. This project centered on crafting a **cross-platform mobile application** tailored for the remote monitoring of ICU patients. Through this experience, I honed my skills in app development while contributing to impactful healthcare technology solutions.
+# 🎓 Experiences <br>
+## 🧑🏼‍💻 Machine Learning Intern <br>
+[Prodigy InfoTech](https://www.linkedin.com/company/prodigy-infotech/) · Internship · Apr 2024 - May 2024 <br>
+Remote <br>
+1. Completed four machine learning projects, including image classification and predictive modeling
+1. Designed, implemented, and optimized ML algorithms
+1. Collaborated with cross-functional teams to deliver high-quality solutions <br>
+[Certificate](https://drive.google.com/file/d/1Bm0SkUWhtAguFByzbxeUJNCFfG8pfwhw/view)
 
-## 📚 Technical Workshops
-As a co-founder of the Competitive Programming Club and a core member of the Ethical Hacking Club at my institute, I played a key role in organizing and hosting technical workshops. Through these responsibilities, I facilitated collaborative learning environments and fostered a sense of community among fellow students and juniors interested in coding and cybersecurity.
+## 📊 Data Analyst <br>
+[Academy of Skill Development](https://www.linkedin.com/company/asdindia/) · Apprenticeship · Jan 2024 - Feb 2024 <br>
+Meghnad Saha Institute Of Technology · On-site <br>
+1. Analyzed and visualized stock market trends using large datasets
+1. Developed data-driven insights to guide strategic decision-making
+1. Collaborated with a multidisciplinary team to refine data analysis methodologies <br>  
+[Github](https://github.com/Nexalyze/Data-Analysis-of-NIFTY-50-Dataset) | [Certificate](https://drive.google.com/file/d/1SuaJ0b2P5EgZkDH_D8b4AQpKMd0qZIxT/view)
+<br>
+<hr>
+
+# 🏫 Education
+1. [Meghnad Saha Institute of Technology](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/)<br>
+B.Tech in Computer Science Engineering with specialization in AIML · 2022 - 2026
+1. [Delhi Public School Ruby Park](https://www.linkedin.com/school/delhi-public-school-ruby-park/)<br>
+Higher Education in Computer Science · 2020 - 2022
+<hr>
 
 
 
