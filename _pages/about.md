@@ -12,8 +12,6 @@ redirect_from:
 
 ![ML](/images/giphy.webp){: .align-right width="200px"}
 
-<br>
-
 👨‍💻 I’m a 3rd-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at [Meghnad Saha Institute of Technology](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/).
 
 🔬 My research interests lie in deep learning, neural networks, and creating impactful ML models.
