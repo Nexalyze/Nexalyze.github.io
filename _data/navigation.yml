@@ -1,24 +1,22 @@
 # main links links
 main:
-  #- title: "Publications"
-  # url: /publications/
-
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "Resume"
-    url: https://drive.google.com/drive/folders/11QJP36DoMLPkFrq970JTLtdFaVXFXYHs?usp=sharing
+  - title: "CV"
+  #   # url: /cv/
+    url: /files/Resume.pdf
   
-  #- title: "Talks"
-  # url: /talks/    
+  - title: "Publications"
+    url: /publications/
+    # url: https://scholar.google.com/citations?hl=en&user=xmVtweIAAAAJ
 
-  #- title: "Teaching"
-  #  url: /teaching/    
-    
+  - title: "Portfolio Projects"
+    url: /portfolio/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Workshops and Seminars"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-    
-  #- title: "Guide"
-  #  url: /markdown/
