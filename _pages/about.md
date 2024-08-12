@@ -12,11 +12,11 @@ redirect_from:
 
 ![ML](/images/giphy1.gif){: .align-right width="300px"}
 
-👨‍💻 I’m a 3rd-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at [Meghnad Saha Institute of Technology](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/).
+👨‍💻 I’m a 3rd-year Computer Science Engineering student specializing in **Artificial Intelligence** and **Machine Learning** at **Meghnad Saha Institute of Technology**.
 
-🔬 My research interests lie in deep learning, neural networks, and creating impactful ML models.
+🔬 My research interests lie in **Deep Learning**, **Neural Networks**, and creating **impactful ML models**.
 
-📚 I’m currently working on projects like predicting real-estate costs and exploring energy consumption patterns, with a strong focus on applying machine learning techniques.
+📚 I'm currently working on building a **Neural Network** from scratch and developing an **NLP model**, focusing on applying advanced machine learning techniques.
 
 🎓 I aspire to become an ML Engineer, developing models that help explore the unknowns of the universe and define the existence of life.
 
