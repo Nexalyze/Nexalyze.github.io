@@ -10,17 +10,17 @@ redirect_from:
 
 
 
-![ML](/images/giphy1.gif){: .align-right width="300px"}
+![ML](/images/giphy1.gif){: .align-right width="500px"}
 
-👨‍💻 I’m a 3rd-year Computer Science Engineering student specializing in **Artificial Intelligence** and **Machine Learning** at **Meghnad Saha Institute of Technology**.
+👨‍💻 I’m a **3rd-year Computer Science Engineering** student specializing in **Artificial Intelligence and Machine Learning** at **Meghnad Saha Institute of Technology**.
 
-🔬 My research interests lie in **Deep Learning**, **Neural Networks**, and creating **impactful ML models**.
+🔬 My research interests focus on **Deep Learning**, **Neural Networks**, and developing **impactful ML models** that push the boundaries of what's possible.
 
-📚 I'm currently working on building a **Neural Network** from scratch and developing an **NLP model**, focusing on applying advanced machine learning techniques.
+📚 Currently, I'm **building a Neural Network** from the ground up and working on an **NLP model**, applying **advanced machine learning techniques** to tackle real-world challenges.
 
-🎓 I aspire to become an ML Engineer, developing models that help explore the unknowns of the universe and define the existence of life.
+🎓 My ambition is to become an **ML Engineer**, designing models that **delve into the universe's mysteries** and advance our understanding of **life itself**.
 
-Let's connect if you're looking for a driven ML Engineer to innovate and make an impact together.
+Let’s connect if you're looking for a **passionate and driven ML Engineer** to **innovate** and make a meaningful impact together.
 
 <hr>
 
