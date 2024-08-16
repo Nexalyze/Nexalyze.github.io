@@ -28,7 +28,7 @@ I transitioned to DPS Ruby Park in Class 11 to pursue the CBSE board and special
 
 <h2 style='color:#5D8AA8; text-align:center'>Secondary Education</h2>
 
-![RMMHS](/images/rmmhs.jpg){: .align-right width="55px"}
+![RMMHS](/images/rmmhs.png){: .align-right width="55px"}
 *Ram Mohan Mission High School, Kolkata*  
 *2007 - 2020*
 
