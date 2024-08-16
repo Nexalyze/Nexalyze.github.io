@@ -1,11 +1,5 @@
 # main links links
 main:
-  - title: "Resume"
-    url: \files\Resume.pdf
-  
-  #- title: "Publications"
-  #  url: /publications/
-    # url: https://scholar.google.com/citations?hl=en&user=xmVtweIAAAAJ
 
   - title: "Portolio"
     url: /portfolio/
@@ -15,6 +9,14 @@ main:
 
   - title: "Internship"
     url: /internship/
+
+  - title: "CV"
+   url: \files\Resume.pdf
+
+  
+  #- title: "Publications"
+  #  url: /publications/
+    # url: https://scholar.google.com/citations?hl=en&user=xmVtweIAAAAJ
         
   # - title: "Blog Posts"
   #   url: /year-archive/
