@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 <h1 align=center>🏫 Education</h1>
-<h2 style='color:#5D8AA8; align=center'>B.Tech in Computer Science and Engineering (Specialization in Artificial Intelligence and Machine Learning)</h2>
+<h2 style='color:#5D8AA8; text-align:center'>B.Tech in Computer Science and Engineering (Specialization in Artificial Intelligence and Machine Learning)</h2>
 
 ![MSIT](/images/msit.png){: .align-right width="80px"}
 *Meghnad Saha Institute of Technology (MSIT), Kolkata*  
@@ -16,7 +16,7 @@ I am currently a third-year student at MSIT, embracing the journey of learning, 
 - **Core Skills:**  Machine Learning, Deep Learning, Operating System, Data Structures, Algorithms, Pattern Recognition.
 - **Key Projects:** Successfully executed multiple projects, including a Real-Estate Price Prediction Model, Nifty-50 Stock Market Prediction Model, AI-Powered Flappy Bird, and an Energy Consumption Model. Each project not only strengthened my technical acumen but also enhanced my problem-solving skills and teamwork capabilities.
 
-<h2 style='color:#5D8AA8; align=center'>Higher Secondary Education (Computer Science Stream)</h2>
+<h2 style='color:#5D8AA8; text-align:center'>Higher Secondary Education(Computer Science Stream)</h2>
 
 ![DPSRPK](/images/dpsrpk.webp){: .align-right width="80px"}
 *Delhi Public School, Ruby Park, Kolkata*  
