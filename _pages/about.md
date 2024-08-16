@@ -23,8 +23,8 @@ Let’s connect if you're looking for a *passionate and driven ML Engineer* to *
 
 <hr>
 
+<h1 align=center>My Technical Skills</h1>
 
-# My Technical Skills
 * Programming Languages — Python, Java, C
 
 * Tools & Libraries — Pandas, Numpy, Matplotlib, Scikit-learn, Streamlit
