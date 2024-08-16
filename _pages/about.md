@@ -24,6 +24,7 @@ Let’s connect if you're looking for a *passionate and driven ML Engineer* to *
 
 <h1 align=center>My Technical Skills</h1>
 
+
 * Programming Languages — Python, Java, C
 
 * Tools & Libraries — Pandas, Numpy, Matplotlib, Scikit-learn, Streamlit
