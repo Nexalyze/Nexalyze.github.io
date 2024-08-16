@@ -11,12 +11,12 @@ main:
     url: /internship/
 
   - title: "CV"
-   url: \files\Resume.pdf
+    url: \files\Resume.pdf
 
   
-  #- title: "Publications"
-  #  url: /publications/
-    # url: https://scholar.google.com/citations?hl=en&user=xmVtweIAAAAJ
+  # - title: "Publications"
+  #   url: /publications/
+  #   url: https://scholar.google.com/citations?hl=en&user=xmVtweIAAAAJ
         
   # - title: "Blog Posts"
   #   url: /year-archive/
