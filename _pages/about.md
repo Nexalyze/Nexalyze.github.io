@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![ML](/images/84.jpg){: .align-right width="200px"}
+![NN](/images/giphy1.gif){: .align-right width="170px"}
 
 👨‍💻 I’m a **3rd-year Computer Science Engineering** student specializing in **Artificial Intelligence and Machine Learning** at **Meghnad Saha Institute of Technology**.
 
