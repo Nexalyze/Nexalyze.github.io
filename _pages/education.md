@@ -26,7 +26,7 @@ I transitioned to DPS Ruby Park in Class 11 to pursue the CBSE board and special
 
 - **Core Skills:** Communication, Python (Programming Language), SQL (Basic).
 
-<h2 style='color:#5D8AA8;'>Secondary Education</h2>
+<h2 style='color:#5D8AA8; text-align:center'>Secondary Education</h2>
 
 ![RMMHS](/images/rmmhs.jpg){: .align-right width="55px"}
 *Ram Mohan Mission High School, Kolkata*  
