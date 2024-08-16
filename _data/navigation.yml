@@ -10,7 +10,7 @@ main:
   - title: "Portolio"
     url: /portfolio/
 
-      - title: "Education"
+  - title: "Education"
     url: /education/
         
   # - title: "Blog Posts"
