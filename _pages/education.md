@@ -5,7 +5,8 @@ permalink: /education/
 author_profile: true
 ---
 <h1 align=center>🏫 Education</h1>
-<h2 style='color:#5D8AA8; text-align:center'>B.Tech in Computer Science and Engineering (Specialization in Artificial Intelligence and Machine Learning)</h2>
+<h2 style='color:#5D8AA8; text-align:center'>B.Tech in Computer Science and Engineering 
+(Specialization in Artificial Intelligence and Machine Learning)</h2>
 
 ![MSIT](/images/msit.png){: .align-right width="80px"}
 *Meghnad Saha Institute of Technology (MSIT), Kolkata*  
