@@ -9,6 +9,9 @@ main:
 
   - title: "Portolio"
     url: /portfolio/
+
+      - title: "Education"
+    url: /education/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
