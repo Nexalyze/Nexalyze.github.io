@@ -7,7 +7,7 @@ author_profile: true
 <h1 align=center>Education 🎓</h1>
 <h2 style='color:#5D8AA8;'>Bachelor of Technology in Computer Science and Engineering (Specialization in Artificial Intelligence and Machine Learning)</h2>
 
-![MSIT](/images/msit.png){: .align-right}
+![MSIT](/images/msit.png){: .align-right width="60px"}
 *Meghnad Saha Institute of Technology (MSIT), Kolkata*  
 *Sep 2022 - Expected Graduation: 2026*
 
@@ -18,7 +18,7 @@ I am currently a third-year student at MSIT, embracing the journey of learning, 
 
 <h2 style='color:#5D8AA8;'>Higher Secondary Education (Computer Science Stream)</h2>
 
-![DPSRPK](/images/dpsrpk.webp){: .align-right}
+![DPSRPK](/images/dpsrpk.webp){: .align-right width="60px"}
 *Delhi Public School, Ruby Park, Kolkata*  
 *2020 - 2022*
 
@@ -28,7 +28,7 @@ I transitioned to DPS Ruby Park in Class 11 to pursue the CBSE board and special
 
 <h2 style='color:#5D8AA8;'>Secondary Education</h2>
 
-![RMMHS](/images/rmmhs.jpg){: .align-right}
+![RMMHS](/images/rmmhs.jpg){: .align-right width="60px"}
 *Ram Mohan Mission High School, Kolkata*  
 *2007 - 2020*
 
