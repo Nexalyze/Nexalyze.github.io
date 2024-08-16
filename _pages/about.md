@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <h1 align=center>👋🏼 Hello there, I'm Sourish!</h1>
 
 ![NN](/images/earth.png){: .align-center}
