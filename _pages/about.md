@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 <h1 align=center>👋🏼 Hello there, I'm Sourish!</h1>
+<hr>
 
 ![NN](/images/earth.png){: .align-center}
 
@@ -23,7 +24,7 @@ Let’s connect if you're looking for a *passionate and driven ML Engineer* to *
 <hr>
 
 <h1 align=center>My Technical Skills</h1>
-
+<hr>
 
 * Programming Languages — Python, Java, C
 
