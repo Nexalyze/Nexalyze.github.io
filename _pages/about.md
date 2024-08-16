@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Sourish!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<h1 align=center>👋🏼 Hello there, I'm Sourish!</h2>
 
-
-![NN](/images/giphy1.gif){: .align-right width="170px"}
+![NN](/images/earth.png){: .align-center}
 
 👨‍💻 I’m a **3rd-year Computer Science Engineering** student specializing in **Artificial Intelligence and Machine Learning** at **Meghnad Saha Institute of Technology**.
 
