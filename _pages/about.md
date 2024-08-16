@@ -20,7 +20,6 @@ redirect_from:
 🎓 My ambition is to become an *ML Engineer*, designing models that *delve into the universe's mysteries* and advance our understanding of *life itself*.
 
 Let’s connect if you're looking for a *passionate and driven ML Engineer* to *innovate* and make a meaningful impact together.
-
 <hr>
 
 <h1 align=center>My Technical Skills</h1>
