@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "📄CV"
+  - title: "📝Resume"
     url: \files\Sourish_Chatterjee.pdf
 
-  - title: "Portolio"
+  - title: "🚀Portolio"
     url: /portfolio/
 
-  - title: "Education"
+  - title: "📖Education"
     url: /education/
 
-  - title: "Internship"
+  - title: "💼Internship"
     url: /internship/
 
 
