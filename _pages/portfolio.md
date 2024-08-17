@@ -8,7 +8,7 @@ author_profile: true
 <h1 align=center>🙌 Portfolio</h1>
 
 <h2 align="center"> 
-    <a href="https://github.com/Nexalyze/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm">AI-Powered Flappy Bird Game Using NEAT Algorithm</a>
+    <a href="https://github.com/sourish-ml/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm">AI-Powered Flappy Bird Game Using NEAT Algorithm</a>
 </h2>
 
 ![Flappy](/images/flappy.png){: .align-left width="200px"}
@@ -17,7 +17,7 @@ The project involves game development with Pygame, creating classes for the bird
 </p>
 
 <h2 align="center"> 
-    <a href="https://github.com/Nexalyze/The-Nifty-50-Stock-Prediction-using-Machine-Learning">NIFTY-50</a>
+    <a href="https://github.com/sourish-ml/The-Nifty-50-Stock-Prediction-using-Machine-Learning">NIFTY-50</a>
 </h2>
 
 ![Nifty-50](/images/nifty50.png){: .align-left width="200px"}
