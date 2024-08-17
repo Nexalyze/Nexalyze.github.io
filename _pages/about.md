@@ -10,7 +10,7 @@ redirect_from:
 <h1 align=center>👋🏼 Hello there, I'm Sourish!</h1>
 <hr>
 
-![NN](/images/earth.png){: .align-center}
+
 
 👨‍💻 I’m a *3rd-year Computer Science Engineering* student specializing in *Artificial Intelligence and Machine Learning* at *Meghnad Saha Institute of Technology*.
 
