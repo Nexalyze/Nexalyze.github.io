@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 <h1 align=center>👋🏼 Hello there, I'm Sourish!</h1>
-<hr>
 
 ![NN](/images/giphy1.gif){: .align-left width="170px"}
 
@@ -35,7 +34,6 @@ Let’s connect if you're looking for a *passionate and driven ML Engineer* to *
 * Platforms — Google Cloud, GitHub, Git (Basic)
 
 * Other — Google Colab, Jupyter Notebooks, VS Code
-<hr>
 
 
 
