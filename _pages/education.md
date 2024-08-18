@@ -19,7 +19,7 @@ I am currently a third-year student at MSIT, embracing the journey of learning, 
 
 <h2 style='color:#5D8AA8; text-align:center'>Higher Secondary Education(Computer Science Stream)</h2>
 
-![DPSRPK](/images/dpsrpk.webp){: .align-right width="80px"}
+![DPSRPK](/images/dpsrpk.png){: .align-right width="80px"}
 *Delhi Public School, Ruby Park, Kolkata*  
 *2020 - 2022*
 
@@ -29,7 +29,7 @@ I transitioned to DPS Ruby Park in Class 11 to pursue the CBSE board and special
 
 <h2 style='color:#5D8AA8; text-align:center'>Secondary Education</h2>
 
-![RMMHS](/images/rmmhs.png){: .align-right width="55px"}
+![RMMHS](/images/rmmhs.png){: .align-right width="70px"}
 *Ram Mohan Mission High School, Kolkata*  
 *2007 - 2020*
 
