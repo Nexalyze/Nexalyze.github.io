@@ -23,17 +23,18 @@ Let’s connect if you're looking for a *passionate and driven ML Engineer* to *
 <hr>
 
 <h1 align=center>My Technical Skills</h1>
-<hr>
 
-* Programming Languages — Python, Java, C
 
-* Tools & Libraries — Pandas, Numpy, Matplotlib, Scikit-learn, Streamlit
+- **💻 Programming Languages:** Python, Java, C
 
-* Data Analysis — Data Preprocessing, Data Cleaning, Data Visualization
+- **🔧 Tools & Libraries:** Pandas, Numpy, Matplotlib, Scikit-learn, Streamlit
 
-* Platforms — Google Cloud, GitHub, Git (Basic)
+- **📊 Data Analysis:** Data Preprocessing, Data Cleaning, Data Visualization
 
-* Other — Google Colab, Jupyter Notebooks, VS Code
+- **☁️ Platforms:** Google Cloud, GitHub, Git (Basic)
+
+- **🛠️ Other:** Google Colab, Jupyter Notebooks, VS Code
+
 
 
 
