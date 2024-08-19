@@ -23,7 +23,7 @@ Let’s [connect](https://linedin.com/in/sourish-chatterjee) if you're looking f
 <hr>
 
 <h1 align=center>My Technical Skills</h1>
-
+<hr>
 
 - **💻 Programming Languages:** Python, Java, C
 
