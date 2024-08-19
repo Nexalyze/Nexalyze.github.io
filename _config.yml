@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sourish Chatterjee"
-  avatar           : "profile.png"
+  avatar           : "Pf.png"
   bio              : "Undergraduate CSE Engineer\n Specializing in AI/ML"
   location         : "West Bengal, India"
   employer         : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sourish-ml"
+  github           : "sourize"
   google_plus      :
   keybase          :
   instagram        : "sourish.ml"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sourize"
+  twitter          : "sourish_ml"
   vine             :
   weibo            :
   xing             :
