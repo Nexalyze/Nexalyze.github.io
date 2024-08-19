@@ -5,7 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 <h1 align=center>🏫 Education</h1>
-<hr>
 
 <h2 style='color:#5D8AA8; text-align:center'>B.Tech in Computer Science and Engineering 
 (Specialization in Artificial Intelligence and Machine Learning)</h2>

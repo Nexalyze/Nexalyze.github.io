@@ -7,7 +7,7 @@ author_profile: true
 
 
 <h1 align=center>🎓 Experiences</h1>
-<hr>
+
 <h2 style='color:#5D8AA8;'>🧑🏼‍💻 Machine Learning Intern</h2>  
 
 **Prodigy InfoTech · Internship**  
