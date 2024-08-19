@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <h1 align=center>🙌 Portfolio</h1>
+<hr>
 
 <h2 align="center"> 
     <a href="https://github.com/sourish-ml/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm">AI-Powered Flappy Bird Game Using NEAT Algorithm</a>
