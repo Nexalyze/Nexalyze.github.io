@@ -16,8 +16,36 @@ author_profile: true
 
 I am currently a third-year student at MSIT, embracing the journey of learning, growth, and enjoyment in my college years. My focus is on AI and ML, where I've developed skills in various programming languages and tools.
 
-- **Core Skills:**  Machine Learning, Deep Learning, Operating System, Data Structures, Algorithms, Pattern Recognition.
-- **Key Projects:** Successfully executed multiple projects, including a Real-Estate Price Prediction Model, Nifty-50 Stock Market Prediction Model, AI-Powered Flappy Bird, and an Energy Consumption Model. Each project not only strengthened my technical acumen but also enhanced my problem-solving skills and teamwork capabilities.
+
+<details>
+  <summary>Second Year</summary>
+ 
+    - **2nd Semester SGPA**: 8.05
+    
+    - **3rd Semester SGPA**: 7.91 
+</details>
+
+<details>
+  <summary>First Year</summary>
+ 
+    - **1st Semester SGPA**: 7.29
+    
+    - **2nd Semester SGPA**: 7.93
+</details>
+
+## Core Skills
+- Machine Learning
+- Deep Learning
+- Operating Systems
+- Data Structures
+- Algorithms
+- Pattern Recognition
+
+## Key Projects
+- Real-Estate Price Prediction Model
+- Nifty-50 Stock Market Prediction Model
+- AI-Powered Flappy Bird
+- Energy Consumption Model
 
 <h2 style='color:#5D8AA8; text-align:center'>Higher Secondary Education (Computer Science Stream)</h2>
 
