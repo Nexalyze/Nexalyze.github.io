@@ -19,7 +19,7 @@ I am currently a third-year student at MSIT, embracing the journey of learning, 
 - **Core Skills:**  Machine Learning, Deep Learning, Operating System, Data Structures, Algorithms, Pattern Recognition.
 - **Key Projects:** Successfully executed multiple projects, including a Real-Estate Price Prediction Model, Nifty-50 Stock Market Prediction Model, AI-Powered Flappy Bird, and an Energy Consumption Model. Each project not only strengthened my technical acumen but also enhanced my problem-solving skills and teamwork capabilities.
 
-<h2 style='color:#5D8AA8; text-align:center'>Higher Secondary Education(Computer Science Stream)</h2>
+<h2 style='color:#5D8AA8; text-align:center'>Higher Secondary Education (Computer Science Stream)</h2>
 
 ![DPSRPK](/images/dpsrpk.png){: .align-right width="80px"}
 <br>
@@ -30,7 +30,7 @@ I transitioned to DPS Ruby Park in Class 11 to pursue the CBSE board and special
 
 - **Core Skills:** Communication, Python (Programming Language), SQL (Basic).
 
-<h2 style='color:#5D8AA8; text-align:center'>Secondary Education</h2>
+<h2 style='color:#5D8AA8; text-align:center'>High School</h2>
 
 ![RMMHS](/images/rmmhs.png){: .align-right width="80px"}
 <br>

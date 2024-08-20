@@ -11,15 +11,15 @@ redirect_from:
 
 ![NN](/images/giphy1.gif){: .align-right width="170px"}
 
-👨‍💻 I’m a *3rd-year Computer Science Engineering* student specializing in *Artificial Intelligence and Machine Learning* at *Meghnad Saha Institute of Technology*.
+🧑‍💻 I’m a 3rd-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at *Meghnad Saha Institute of Technology*.
 
-🔬 My research interests focus on *Deep Learning*, *Neural Networks*, and developing *impactful ML models* that push the boundaries of what's possible.
+🔬 My research interests focus on Deep Learning, Neural Networks, and developing **impactful ML models** that push the boundaries of what’s possible.
 
-📚 Currently, I'm *building a Neural Network* from the ground up and working on an *NLP model*, applying *advanced machine learning techniques* to tackle real-world challenges.
+📚 Currently, I’m **building a Neural Network** from the ground up and working on an **NLP model**, applying advanced machine learning techniques to tackle real-world challenges.
 
-🎓 My ambition is to become an *ML Engineer*, designing models that *delve into the universe's mysteries* and advance our understanding of *life itself*.
+🚀 My ambition is to become an **ML Engineer** who designs models that **delve into the universe’s mysteries** and advance our understanding of life itself.
 
-Let’s [Connect](https://linkedin.com/in/sourish-chatterjee) if you're looking for a *passionate and driven ML Engineer* to *innovate* and make a meaningful impact together.
+🔗 Let’s [Connect](https://linkedin.com/in/sourish-chatterjee) if you’re looking for a **passionate and driven ML Engineer** to innovate and make a meaningful impact together.
 <hr>
 
 <h1 align=center>My Technical Skills</h1>
