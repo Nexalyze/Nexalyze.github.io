@@ -35,6 +35,11 @@ redirect_from:
 
 - **🛠️ Other:** Google Colab, Jupyter Notebooks, VS Code
 
+## Additional Activities
+
+- **Tutoring:** Provided private tutoring for Class 7 and Class 8 students, focusing on [Physics, Chemistry, Biology, Maths, Computer and English]. Developed personalized lesson plans and fostered a deep understanding of required topics to them.
+
+
 
 
 
