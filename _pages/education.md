@@ -20,17 +20,17 @@ I am currently a third-year student at MSIT, embracing the journey of learning, 
 <details>
   <summary>Second Year</summary>
  
-    - **2nd Semester SGPA**: 8.05
-    
-    - **3rd Semester SGPA**: 7.91 
+    - 2nd Semester SGPA: 8.05
+<br>
+    - 3rd Semester SGPA: 7.91 
 </details>
 
 <details>
   <summary>First Year</summary>
  
-    - **1st Semester SGPA**: 7.29
-    
-    - **2nd Semester SGPA**: 7.93
+    - 1st Semester SGPA: 7.29
+<br>    
+    - 2nd Semester SGPA: 7.93
 </details>
 
 ## Core Skills
