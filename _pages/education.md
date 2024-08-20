@@ -42,10 +42,10 @@ I am currently a third-year student at MSIT, embracing the journey of learning, 
 - Pattern Recognition
 
 ## Key Projects
-- Real-Estate Price Prediction Model
-- Nifty-50 Stock Market Prediction Model
-- AI-Powered Flappy Bird
-- Energy Consumption Model
+- [Real-Estate Price Prediction Model](https://github.com/sourize/Real-Estate-Price-Prediction-Using-Machine-Learning)
+- [Nifty-50 Stock Market Prediction Model](https://github.com/sourize/The-Nifty-50-Stock-Prediction-using-Machine-Learning)
+- [AI-Powered Flappy Bird](https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm)
+- [Energy Consumption Model](https://github.com/sourize/EnergyConsumption)
 
 <h2 style='color:#5D8AA8; text-align:center'>Higher Secondary Education (Computer Science Stream)</h2>
 
