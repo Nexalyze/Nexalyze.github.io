@@ -9,6 +9,9 @@ main:
   - title: "Experience"
     url: /experience/
 
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
   - title: "Resume"
     url: \files\Sourish_Chatterjee.pdf
 
@@ -18,9 +21,6 @@ main:
   # - title: "Publications"
   #   url: /publications/
   #   url: https://scholar.google.com/citations?hl=en&user=xmVtweIAAAAJ
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
 
   # - title: "Workshops and Seminars"
   #   url: /talks/    
