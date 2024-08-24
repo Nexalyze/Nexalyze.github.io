@@ -17,22 +17,6 @@ author_profile: true
 I am currently a third-year student at MSIT, embracing the journey of learning, growth, and enjoyment in my college years. My focus is on AI and ML, where I've developed skills in various programming languages and tools.
 
 
-<details>
-  <summary>Second Year</summary>
- 
-    - 2nd Semester SGPA: 8.05
-<br>
-    - 3rd Semester SGPA: 7.91 
-</details>
-
-<details>
-  <summary>First Year</summary>
- 
-    - 1st Semester SGPA: 7.29
-<br>    
-    - 2nd Semester SGPA: 7.93
-</details>
-
 ## Core Skills
 - Machine Learning
 - Deep Learning
