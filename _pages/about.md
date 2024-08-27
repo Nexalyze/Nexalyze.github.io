@@ -9,9 +9,9 @@ redirect_from:
 ---
 <h1 align=center>👋🏼 Hello there, I'm Sourish!</h1>
 
-🧑‍💻 I’m an undergrad student pursuing CSE(AIML) at [@MSIT](https://msit.edu.in).
+I’m an undergrad student pursuing CSE(AIML) at [@MSIT](https://msit.edu.in).
 
-Currently, I am studying my college's core subjects along with a deep interset in Machie Learning 🧑🏼‍💻. 
+I'm currently focused on my core subjects while developing a keen interest in Machine Learning 🧑🏼‍💻.
 
 I've built several projects to showcase my learning which you can explore in my [Github](https://github.com/sourize).
 
