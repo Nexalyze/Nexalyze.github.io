@@ -22,7 +22,7 @@ This year I am also participating in SIH, so a new project and a new learning ex
 If you want to know more about me and talk about projects and stuffs let’s [Connect](x.com/sourize)
 <hr>
 
-if you want to know about my [skills](\_pages\skills.md)
+if you want to know about my [skills](/skills.md/)
 
 
 
