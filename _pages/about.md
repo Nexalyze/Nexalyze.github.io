@@ -17,7 +17,7 @@ I've built several projects to showcase my learning which you can explore in my 
 
 I am embracing the concept of [learning in public](https://www.swyx.io/learn-in-public), and I'm sharing my progress on [X/Twitter](https://X.com/sourize_).
 
-This year, I'm excited to participate in [SIH], which means a new project and a fresh learning experience—stay tuned!
+This year, I'm excited to participate in [SIH-2024](/sih2024/), which means a new project and a fresh learning experience—stay tuned!
 
 If you'd like to connect and chat about projects or anything else, feel free to [reach out](https://x.com/sourize).
 
