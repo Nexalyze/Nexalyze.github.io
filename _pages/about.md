@@ -24,7 +24,7 @@ If you'd like to connect and chat about projects or anything else, feel free to 
 Want to learn more about my [skills](/skills.md/), [education](/education.md/), and [experience](/experience.md/)?
 
 
-Connect with me on [LinkedIn](https://linkedin.com/in/sourish-chatterjee), [X](https://x.com/sourize)
+Connect with me on [LinkedIn](https://linkedin.com/in/sourish-chatterjee), [X](https://x.com/sourize_)
 
 
 
