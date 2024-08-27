@@ -9,32 +9,20 @@ redirect_from:
 ---
 <h1 align=center>👋🏼 Hello there, I'm Sourish!</h1>
 
-![NN](/images/giphy1.gif){: .align-right width="170px"}
+🧑‍💻 I’m an undergrad student studying CSE(AIML) at [@MSIT](msit.edu.in).
 
-🧑‍💻 I’m a 3rd-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at *Meghnad Saha Institute of Technology*.
+Currently I am studying my college's core subjects along with a keen interset in Machie Learning 🧑🏼‍💻. 
 
-🔬 My research interests focus on Deep Learning, Neural Networks, and developing **impactful ML models** that push the boundaries of what’s possible.
+I have built some projects to showcase my learning which you will find in my [github](github.com/sourize).
 
-📚 Currently, I’m **building a Neural Network** from the ground up and working on an **NLP model**, applying advanced machine learning techniques to tackle real-world challenges.
+I am adapting the idea of [learn in public](https://www.swyx.io/learn-in-public) for which I am using [X/Twitter](X.com/sourize_).
 
-🚀 My ambition is to become an **ML Engineer** who designs models that **delve into the universe’s mysteries** and advance our understanding of life itself.
+This year I am also participating in SIH, so a new project and a new learning experience hehe!!
 
-🔗 Let’s [Connect](https://linkedin.com/in/sourish-chatterjee) if you’re looking for a **passionate and driven ML Engineer** to innovate and make a meaningful impact together.
+If you want to know more about me and talk about projects and stuffs let’s [Connect](x.com/sourize)
 <hr>
 
-<h1 align=center>My Technical Skills</h1>
-<hr>
-
-- **💻 Programming Languages:** Python, Java, C
-
-- **🔧 Tools & Libraries:** Pandas, Numpy, Matplotlib, Scikit-learn, Streamlit
-
-- **📊 Data Analysis:** Data Preprocessing, Data Cleaning, Data Visualization
-
-- **☁️ Platforms:** Google Cloud, GitHub, Git (Basic)
-
-- **🛠️ Other:** Google Colab, Jupyter Notebooks, VS Code
-
+if you want to know about my [skills](\_pages\skills.md)
 
 
 
