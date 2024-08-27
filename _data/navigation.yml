@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV"
+    url: \files\Sourish_Chatterjee.pdf
+    
   - title: "Portolio"
     url: /portfolio/
 
@@ -11,11 +14,6 @@ main:
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
-
-  - title: "Resume"
-    url: \files\Sourish_Chatterjee.pdf
-
-
 
   
   # - title: "Publications"
