@@ -9,23 +9,22 @@ redirect_from:
 ---
 <h1 align=center>👋🏼 Hello there, I'm Sourish!</h1>
 
-🧑‍💻 I’m an undergrad student studying CSE(AIML) at [@MSIT](https://msit.edu.in).
+🧑‍💻 I’m an undergrad student pursuing CSE(AIML) at [@MSIT](https://msit.edu.in).
 
-Currently I am studying my college's core subjects along with a keen interset in Machie Learning 🧑🏼‍💻. 
+Currently, I am studying my college's core subjects along with a deep interset in Machie Learning 🧑🏼‍💻. 
 
-I have built some projects to showcase my learning which you will find in my [github](https://github.com/sourize).
+I've built several projects to showcase my learning which you can explore in my [Github](https://github.com/sourize).
 
-I am adapting the idea of [learn in public](https://www.swyx.io/learn-in-public) for which I am using [X/Twitter](https://X.com/sourize_).
+I am embracing the concept of [learning in public](https://www.swyx.io/learn-in-public), and I'm sharing my progress on [X/Twitter](https://X.com/sourize_).
 
-This year I am also participating in SIH, so a new project and a new learning experience hehe!!
+This year, I'm excited to participate in [SIH], which means a new project and a fresh learning experience—stay tuned!
 
-If you want to know more about me and talk about projects and stuffs let’s [Connect](https://x.com/sourize)
-<hr>
+If you'd like to connect and chat about projects or anything else, feel free to [reach out](https://x.com/sourize).
 
-if you want to know about my [skills](/skills.md/)
-
+Want to learn more about my [skills](/skills.md/), [education](/education.md/), and [experience](/experience.md/)?
 
 
+Connect with me on [LinkedIn](https://linkedin.com/in/sourish-chatterjee), [X](https://x.com/sourize)
 
 
 
