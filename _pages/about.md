@@ -13,7 +13,7 @@ I’m an undergrad student pursuing CSE(AIML) at [@MSIT](https://msit.edu.in).
 
 I'm currently focused on my core subjects while developing a keen interest in Machine Learning 🧑🏼‍💻.
 
-I've built several projects to showcase my learning which you can explore in my [Github](https://github.com/sourize).
+I've built several small projects to showcase my learning which you can explore in my [Github](https://github.com/sourize).
 
 I am embracing the concept of [learning in public](https://www.swyx.io/learn-in-public), and I'm sharing my progress on [X/Twitter](https://X.com/sourize_).
 
