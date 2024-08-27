@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 align=center; >👋🏼 Hello there, I'm Sourish!</h1>
+<h1 align=center;>👋🏼 Hello there, I'm Sourish!</h1>
 
 I’m an undergrad student pursuing CSE(AIML) at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/).
 
