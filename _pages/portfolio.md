@@ -7,7 +7,7 @@ author_profile: true
 
 <h1 align=center>🙌 Portfolio</h1>
 
-<h2 color:"#dd4b39"; align="center">AI-Powered Flappy Bird Game Using NEAT Algorithm</h2>
+<h2 'color:#dd4b39; text-align:center'>AI-Powered Flappy Bird Game Using NEAT Algorithm</h2>
 
 ![Flappy](/images/flappy.png){: .align-left width="200px"}
 
