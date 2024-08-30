@@ -19,39 +19,3 @@ Curious about what I’ve been up to? Check out my projects on [Github](https://
 Wanna know more? Dive into my [skills](/skills.md/), [education](/education.md/), and [experience](/experience.md/).
 
 Let’s connect on [LinkedIn](https://linkedin.com/in/sourish-chatterjee) and [X/Twitter](https://x.com/sourize_)!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I’m an undergrad student pursuing CSE(AIML) at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/).
-
-I'm currently focused on my core subjects while developing a keen interest in Machine Learning 🧑🏼‍💻.
-
-I've built several small projects to showcase my learning which you can explore in my .
-
-, and I'm sharing my progress on .
-
-, which means a new project and a fresh learning experience —stay tuned!
-
-If you'd like to connect and chat about projects or anything else, feel free to [reach out](https://x.com/sourize).
-
-Want to learn more about my 
-
-
-Connect with me on 
-
-
-
