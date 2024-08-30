@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /aboutme/
 author_profile: true
 ---
-Here's my [Resume](\files\Sourish_Chatterjee.pdf)
+_**Here's my**_ [Resume](\files\Sourish_Chatterjee.pdf)
 <hr>
 
 ## Who is Sourish?
@@ -36,5 +36,5 @@ Where do I see myself? At a tech giant like Google or Microsoft 😅, contributi
 Want to know more about where I come from and where I'm headed? Check out my [Education](/education/).
 <br>
 
-### Let’s Chat 💬
+## Let’s Chat 💬
 If you’re passionate about AI, love a good tech conversation, or just want to say hi, don’t hesitate to reach out on [LinkedIn](https://linkedin.com/in/sourish-chatterjee) or [X/Twitter](https://x.com/sourize_). Let’s build something amazing together!
