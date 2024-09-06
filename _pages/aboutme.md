@@ -4,7 +4,7 @@ title: ""
 permalink: /aboutme/
 author_profile: true
 ---
-_**Here's my**_ [Resume](\files\Sourish_Chatterjee.pdf)
+_Here's my_ [Resume](\files\Sourish_Chatterjee.pdf)
 <hr>
 
 ## Who is Sourish?
@@ -17,9 +17,9 @@ It all started with a spark—a fascination with how technology could unlock the
 
 ## My Toolkit 🔧
 
-- AI/ML Wizardry: I bring ideas to life using neural networks, random forests, and other machine learning models. My languages of choice? Python.
-- Data Whisperer: I transform raw data into actionable insights with Pandas, Numpy, and Matplotlib, turning chaos into clarity.
-- Team Player: Collaboration is key. Through internships, hackathons, and group projects, I’ve learned that the best solutions often come from teamwork.
+- **AI/ML Wizardry:** I bring ideas to life using neural networks, random forests, and other machine learning models. My languages of choice? Python.
+- **Data Whisperer:** I transform raw data into actionable insights with Pandas, Numpy, and Matplotlib, turning chaos into clarity.
+- **Team Player:** Collaboration is key. Through internships, hackathons, and group projects, I’ve learned that the best solutions often come from teamwork.
 Curious about the tools I use and how I apply them? Check out my [Technical Skills](/skills.md/).
 
 ## My Adventures 🚀
