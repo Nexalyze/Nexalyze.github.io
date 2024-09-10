@@ -10,8 +10,6 @@ redirect_from:
 <h1 align=center>👋🏼 Hello there, I'm Sourish!</h1>
 <hr>
 
---- 
-
 ### Welcome to my tech sandbox, where curiosity meets innovation. 
 
 I’m a tech explorer diving deep into **Artificial Intelligence** and **Machine Learning**, currently navigating my undergrad journey at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/). My fascination with technology started early, inspired by the magic of movies like _Iron Man_, and now I’m on a mission to turn that inspiration into innovation.
