@@ -4,7 +4,7 @@ title: ""
 permalink: /aboutme/
 author_profile: true
 ---
-_Here's my_ [Resume](\files\Sourish_Chatterjee.pdf)
+📄 **Check out my Resume**: [Sourish Chatterjee](\files\Sourish_Chatterjee.pdf)
 <hr>
 
 ## Who is Sourish?
