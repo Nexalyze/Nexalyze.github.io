@@ -4,7 +4,7 @@ excerpt: "<img src='/images/Flappy3D.webp'>"
 collection: portfolio
 ---
 
-![Flappy](/images/flappy.png){: .align-left width="200px"}
+![Flappy](/images/flappy.png){: .align-center width="400px"}
 
 **Summary: AI-Powered Flappy Bird Game Using NEAT Algorithm**
 
