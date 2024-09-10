@@ -14,7 +14,7 @@ Welcome to my digital playground!
 
 I'm an explorer in the realms of Artificial Intelligence and Machine Learning, currently navigating my undergrad journey at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/). My fascination with technology started early, inspired by the magic of movies like _Iron Man_, and now I’m on a mission to turn that inspiration into innovation.
 
-I am embracing the concept of [learning in public](https://www.swyx.io/learn-in-public), sharing my adventures in AI and ML on [X/Twitter](https://X.com/sourize_). Whether it’s building a predictive model, crafting a game, or diving into a hackathon, I’m always up for a challenge. This year, I'm excited to participate in [SIH-2024](/posts/2024/09/SIH2024/), where new projects and fresh experiences await!
+I am embracing the concept of [learning in public](https://www.swyx.io/learn-in-public), sharing my adventures in AIML and other stuffs on [X/Twitter](https://X.com/sourize_) & [My Blog Posts](/year-archive/). Whether it’s building a predictive model, crafting a game, or diving into a hackathon, I’m always up for a challenge. This year, I'm excited to participate in [SIH-2024](/posts/2024/09/SIH2024/), where new projects and fresh experiences await!
 
 Curious about what I’ve been up to? Check out my projects on [Github](https://github.com/sourize?tab=repositories), and if something sparks your interest, let’s [connect!](https://x.com/sourize_) I'm always eager to chat, collaborate, or just share ideas.
 
