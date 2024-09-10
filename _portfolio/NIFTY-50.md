@@ -1,47 +1,35 @@
 ---
 title: "NIFTY-50"
-excerpt: "<img src='/images/nifty50.png'>"
+excerpt: "<img src='/images/nift50epg.jpg'>"
 collection: portfolio
 ---
 
 ![Nifty-50](/images/nifty50.png){: .align-left width="200px"}
 
-# The-Nifty-50-Stock-Prediction-using-Machine-Learning
-This project focuses on developing a machine learning model to predict the next day's opening price of Nifty 50 stocks. The model employs a Random Forest Regressor to analyze historical stock data and generate accurate predictions, providing valuable insights for traders and investors.
+**Summary: The Nifty 50 Stock Prediction Using Machine Learning**
 
-**Key Features:**
+This project aims to develop a machine learning model that predicts the next day's opening price of Nifty 50 stocks, leveraging historical data. A Random Forest Regressor is used to provide insights that can help traders and investors.
 
-1.  **Data Collection and Preprocessing:**
-    
-    -   Data Sources: Collected historical stock data from reliable financial databases and sources.
-        
-    -   Cleaning: Conducted data cleaning to handle missing values, outliers, and inconsistencies.
-        
-    -   Feature Engineering: Created relevant features such as previous day's opening, closing, high, low prices, and trading volume.
-        
-2.  **Model Selection and Training:**
-    
-    -   Algorithm: Utilized the Random Forest Regressor from Scikit-Learn, an ensemble learning method that aggregates multiple decision trees to enhance predictive accuracy and reduce overfitting.
-        
-    -   Training: Split the dataset into training and testing sets to evaluate the model's performance. Trained the model on the training set and fine-tuned hyperparameters to optimize results.
-        
-3.  **Evaluation:**
-    
-    -   Metrics: Used Mean Squared Error (MSE) and R-squared (R²) as primary metrics for evaluating the model's performance.
-        
-    -   Results: The model achieved high accuracy in predicting the opening stock prices, showing a strong correlation between predicted and actual values.
-        
+### Key Features:
 
-**Technologies and Tools:**
+1. **Data Collection & Preprocessing**:
+   - **Data Sources**: Historical stock data from trusted financial databases.
+   - **Cleaning**: Handled missing values and outliers.
+   - **Feature Engineering**: Created features such as previous day's opening, closing, high, low prices, and volume.
 
--   Programming Language: Python
-    
--   Libraries: Scikit-Learn, Pandas, NumPy, Matplotlib
-    
--   Data Preprocessing: Data Cleaning, Feature Engineering
-    
--   Model: Random Forest Regressor
-    
+2. **Model Selection & Training**:
+   - **Algorithm**: Random Forest Regressor (ensemble method of decision trees to improve accuracy and reduce overfitting).
+   - **Training**: Split data into training and testing sets, tuned hyperparameters for optimal performance.
 
-**Conclusion:** The Nifty 50 stock opening price prediction model successfully forecasts the next day's opening prices based on historical data, offering valuable guidance for investors and traders. This project demonstrates the effective application of machine learning techniques in the financial domain, highlighting the potential for data-driven decision-making in stock trading.
-[GitHub](https://github.com/sourish-ml/The-Nifty-50-Stock-Prediction-using-Machine-Learning).
+3. **Evaluation**:
+   - **Metrics**: Used Mean Squared Error (MSE) and R-squared (R²) to assess the model's accuracy.
+   - **Results**: High prediction accuracy with a strong correlation between predicted and actual stock prices.
+
+### Tools & Technologies:
+- **Programming**: Python
+- **Libraries**: Scikit-Learn, Pandas, NumPy, Matplotlib
+- **Model**: Random Forest Regressor
+
+**Conclusion**: The model accurately predicts Nifty 50 stock opening prices, offering valuable insights for data-driven decision-making in stock trading. 
+
+You can explore the project [here](https://github.com/sourish-ml/The-Nifty-50-Stock-Prediction-using-Machine-Learning).
