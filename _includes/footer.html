@@ -2,10 +2,9 @@
 
 <div class="page__footer-follow">
   <ul class="social-icons">
-    <li><a href="https://twitter.com/sourize_"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     <li><a href="https://github.com/sourize"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+    <li><a href="https://twitter.com/sourize_"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     <li><a href="https://linkedin.com/in/sourish-chatterjee"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
-
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
