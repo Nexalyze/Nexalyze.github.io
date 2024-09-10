@@ -12,7 +12,7 @@ redirect_from:
 
 ### Welcome to my tech sandbox, where curiosity meets innovation. 
 
-I’m a tech explorer diving deep into **Artificial Intelligence** and **Machine Learning**, currently navigating my undergrad journey at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/). My fascination with technology started early, inspired by the magic of movies like _Iron Man_, and now I’m on a mission to turn that inspiration into innovation.
+I'm an undergrad at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/) with a passion for **Artificial Intelligence** and **Machine Learning**. My fascination with technology started early, inspired by the magic of movies like _Iron Man_, and now I’m on a mission to turn that inspiration into innovation.
 
 ---
 
