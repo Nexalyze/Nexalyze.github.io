@@ -4,8 +4,6 @@ excerpt: "<img src='/images/flappy.png'>"
 collection: portfolio
 ---
 
-<h2 style='color:#dd4b39; text-align:center'>AI-Powered Flappy Bird Game Using NEAT Algorithm</h2>
-
 ![Flappy](/images/flappy.png){: .align-left width="200px"}
 
 🎮 AI-Powered Flappy Bird Game Using NEAT Algorithm

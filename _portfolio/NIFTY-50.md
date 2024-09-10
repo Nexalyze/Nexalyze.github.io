@@ -4,8 +4,6 @@ excerpt: "<img src='/images/nifty50.png'>"
 collection: portfolio
 ---
 
-<h2 style='color:#dd4b39; text-align:center'>NIFTY-50</h2>
-
 ![Nifty-50](/images/nifty50.png){: .align-left width="200px"}
 
 Stock markets are unpredictable, but with the right tools, we can bring some order to the chaos. In this project, I developed a Machine Learning model using the Random Forest Regressor to predict the next day's opening prices for Nifty 50 stocks. By leveraging historical stock data, I engineered features and fine-tuned the model for maximum accuracy.
