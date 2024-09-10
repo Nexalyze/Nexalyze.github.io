@@ -27,3 +27,5 @@ I developed a Natural Language Processing (NLP) model to classify restaurant rev
 
 ### Outcome:
 The model accurately classifies reviews, providing businesses with valuable insights into customer feedback. This project highlights my expertise in NLP, data preprocessing, and machine learning.
+
+You can explore the project [here](https://github.com/sourize/Restaurant-Review-Sentiment-Analysis-Model)
