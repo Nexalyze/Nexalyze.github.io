@@ -1,6 +1,6 @@
 ---
 title: "NIFTY-50"
-excerpt: "<img src='/images/nift50epg.jpg'>"
+excerpt: "A Predictive Machine Learning Model</br><img src='/images/nift50epg.jpg'>"
 collection: portfolio
 ---
 
@@ -32,4 +32,4 @@ This project aims to develop a machine learning model that predicts the next day
 
 **Conclusion**: The model accurately predicts Nifty 50 stock opening prices, offering valuable insights for data-driven decision-making in stock trading. 
 
-You can explore the project [here](https://github.com/sourish-ml/The-Nifty-50-Stock-Prediction-using-Machine-Learning).
+You can explore the project [here.](https://github.com/sourish-ml/The-Nifty-50-Stock-Prediction-using-Machine-Learning).

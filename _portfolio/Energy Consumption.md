@@ -1,7 +1,6 @@
 ---
 title: "Energy Consumption Model"
-description : " A Predictive Machine Learning Model"
-excerpt: "<img src='/images/Energy2.jpg'>"
+excerpt: "A Predictive Machine Learning Model</br><img src='/images/Energy2.jpg'>"
 collection: portfolio
 ---
 
@@ -32,4 +31,4 @@ This project builds a model to predict energy consumption using features such as
 ### Conclusion:
 The model effectively predicts energy consumption based on multiple factors, offering insights for optimizing energy usage and management.
 
-You can explore the project [here](https://github.com/sourize/EnergyConsumption)
+You can explore the project [here.](https://github.com/sourize/EnergyConsumption)

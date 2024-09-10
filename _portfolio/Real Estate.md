@@ -1,7 +1,6 @@
 ---
 title: "Real Estate Price Prediction Using Machine Learning"
-description : " A Predictive Machine Learning Model"
-excerpt: "<img src='/images/RealEstate2.jpg'>"
+excerpt: "A Predictive Machine Learning Model</br><img src='/images/RealEstate2.jpg'>"
 collection: portfolio
 ---
 
@@ -36,4 +35,4 @@ This project focuses on building a machine learning model to predict real estate
 ### Conclusion:
 The model accurately predicts house prices based on key features, offering valuable insights for real estate market stakeholders. This project demonstrates effective use of data preprocessing and machine learning to address real-world challenges.
 
-You can explore the project [here](https://github.com/sourize/Real-Estate-Price-Prediction-Using-Machine-Learning)
+You can explore the project [here.](https://github.com/sourize/Real-Estate-Price-Prediction-Using-Machine-Learning)
