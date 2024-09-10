@@ -1,6 +1,6 @@
 ---
 title: "AI-Powered Flappy Bird Game Using NEAT Algorithm"
-excerpt: "Flappy<br/><img src='/images/flappy.png'>"
+excerpt: "<img src='/images/flappy.png'>"
 collection: portfolio
 ---
 

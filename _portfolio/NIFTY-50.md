@@ -1,6 +1,6 @@
 ---
 title: "NIFTY-50"
-excerpt: "Nifty-50<br/><img src='/images/nifty50.png'>"
+excerpt: "<img src='/images/nifty50.png'>"
 collection: portfolio
 ---
 
