@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: ""
-permalink: /portfolio/
-author_profile: true
+title: "NIFTY-50"
+excerpt: "Nifty-50<br/><img src='/images/nifty50.png'>"
+collection: portfolio
 ---
 
 <h2 style='color:#dd4b39; text-align:center'>NIFTY-50</h2>

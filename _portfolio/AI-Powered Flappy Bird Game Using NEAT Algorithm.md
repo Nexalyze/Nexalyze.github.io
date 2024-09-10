@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: ""
-permalink: /portfolio/
-author_profile: true
+title: "AI-Powered Flappy Bird Game Using NEAT Algorithm"
+excerpt: "Flappy<br/><img src='/images/flappy.png'>"
+collection: portfolio
 ---
 
 <h2 style='color:#dd4b39; text-align:center'>AI-Powered Flappy Bird Game Using NEAT Algorithm</h2>
