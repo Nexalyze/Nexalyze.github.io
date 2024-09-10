@@ -1,6 +1,6 @@
 ---
 title: "Real Estate Price Prediction Using Machine Learning"
-excerpt: "A Predictive Machine Learning Model</br><img src='/images/RealEstate2.jpg'>"
+excerpt: "A Predictive Machine Learning Model<br/><img src='/images/RealEstate2.jpg'>"
 collection: portfolio
 ---
 

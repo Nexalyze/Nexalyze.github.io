@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis of NIFTY 50 Dataset"
-excerpt: "<br>A Data Analysis Project with my team during my Apprenticeship at Academy of Skill Development</br><img src='/images/DA.jpg'>"
+excerpt: "A Data Analysis Project with my team during my Apprenticeship at Academy of Skill Development<br/><img src='/images/DA.jpg'>"
 collection: portfolio
 ---
 

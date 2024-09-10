@@ -1,6 +1,6 @@
 ---
 title: "NIFTY-50"
-excerpt: "A Predictive Machine Learning Model</br><img src='/images/nift50epg.jpg'>"
+excerpt: "A Predictive Machine Learning Model<br/><img src='/images/nift50epg.jpg'>"
 collection: portfolio
 ---
 

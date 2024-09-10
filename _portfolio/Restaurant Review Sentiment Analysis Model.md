@@ -1,6 +1,6 @@
 ---
 title: "Restaurant Review Sentiment Analysis Model"
-excerpt: "A project on NLP</br><img src='/images/Restaurant1.jpg'>"
+excerpt: "A project on NLP<br/><img src='/images/Restaurant1.jpg'>"
 collection: portfolio
 ---
 
