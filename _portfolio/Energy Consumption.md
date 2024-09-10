@@ -1,6 +1,6 @@
 ---
 title: "Energy Consumption Model"
-excerpt: "A Predictive Machine Learning Model<br/><img src='/images/Energy2.jpg'>"
+excerpt: "<img src='/images/Energy2.jpg'>"
 collection: portfolio
 ---
 
