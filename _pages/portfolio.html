@@ -7,7 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- Grid Container for Portfolio -->
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
+  {% for post in site.portfolio %}
+    <!-- Each portfolio item in a grid item -->
+    <div style="border: 1px solid #ddd; padding: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+      {% include archive-single.html %}
+    </div>
+  {% endfor %}
+</div>
