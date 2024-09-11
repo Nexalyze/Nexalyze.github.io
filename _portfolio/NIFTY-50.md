@@ -1,6 +1,9 @@
 ---
-title: "NIFTY-50"
+title: "NIFTY-50 Model"
 excerpt: "<img src='/images/nift50epg.jpg'>"
+description: "A Predictive Model to predict Nifty-50 Stock."
+categories: 
+  - ML Model
 collection: portfolio
 ---
 

@@ -1,6 +1,9 @@
 ---
 title: "Energy Consumption Model"
 excerpt: "<img src='/images/Energy2.jpg'>"
+description: "A Predictive Model to predict Energy Consumption based on some features as input"
+categories: 
+  - ML Model
 collection: portfolio
 ---
 

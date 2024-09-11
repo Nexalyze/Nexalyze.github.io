@@ -1,6 +1,9 @@
 ---
 title: "Data Analysis of NIFTY 50 Dataset"
 excerpt: "<img src='/images/DA.jpg'>"
+description: "A Analysis of Nifty 50 Stocks over the years."
+categories: 
+  - Data Analysis
 collection: portfolio
 ---
 
