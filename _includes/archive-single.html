@@ -15,8 +15,8 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    <!-- Display the teaser image only once -->
-    {% if include.type == "grid" and teaser %}
+    <!-- Display the teaser image once -->
+    {% if teaser and include.type == "grid" %}
       <div class="archive__item-teaser">
         <img src=
           {% if teaser contains "://" %}
@@ -41,11 +41,6 @@
       {% endif %}
     </h2>
     
-    <!-- Display the read time if available -->
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-
     <!-- Display the project date -->
     {% if post.date %}
       <p class="page__date">
@@ -54,13 +49,13 @@
         <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
       </p>
     {% endif %}
-    
+
     <!-- Display the project description -->
     {% if post.description %}
       <p class="archive__item-description">{{ post.description }}</p>
     {% endif %}
 
-    <!-- Display categories (tags) -->
+    <!-- Display categories (tags) once -->
     {% if post.categories %}
       <p><strong>Categories:</strong> 
         {% for category in post.categories %}
@@ -80,14 +75,5 @@
       </p>
     {% endif %}
     
-    <!-- Display citation and paper URL if available -->
-    {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href="{{ post.paperurl }}"><u>here</u></a></p>
-    {% endif %}
-
   </article>
 </div>
