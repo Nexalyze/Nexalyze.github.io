@@ -6,7 +6,7 @@
     <!-- Image teaser displayed once -->
     {% if post.header.teaser %}
       <div class="archive__item-teaser">
-        <img src="{{ post.header.teaser }}" alt="Image for {{ post.title }}">
+        <img src="{{ post.header.teaser }}" alt="">
       </div>
     {% endif %}
 
@@ -22,8 +22,11 @@
 
     <!-- Categories -->
     {% if post.categories %}
-      <p><strong>Categories:</strong></p>
-      {% include category-list.html with post.categories as categories %}
+      <p><strong>Categories:</strong>
+        {% for category in post.categories %}
+          <span style="background-color: #3A6F81; padding: 3px 8px; border-radius: 5px; font-size: 12px; color: #fff; margin-right: 5px;">{{ category }}</span>
+        {% endfor %}
+      </p>
     {% endif %}
 
     <!-- Excerpt -->
