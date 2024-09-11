@@ -11,8 +11,24 @@ author_profile: true
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
   {% for post in site.portfolio %}
     <!-- Each portfolio item in a grid item -->
-    <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); color: #fff;">
+      <!-- Title and Image (already included in archive-single.html) -->
       {% include archive-single.html %}
+      
+      <!-- Description Part -->
+      {% if post.excerpt %}
+        <p style="color: #e0e0e0; font-size: 14px; margin-top: 10px;">{{ post.excerpt | markdownify }}</p>
+      {% endif %}
+
+      <!-- Tags/Categories Part -->
+      {% if post.categories %}
+        <p style="margin-top: 10px;">
+          <strong>Categories:</strong>
+          {% for category in post.categories %}
+            <span style="background-color: #3A6F81; padding: 3px 8px; border-radius: 5px; font-size: 12px; color: #fff; margin-right: 5px;">{{ category }}</span>
+          {% endfor %}
+        </p>
+      {% endif %}
     </div>
   {% endfor %}
 </div>
