@@ -53,8 +53,9 @@
 
 
 /*
-   Post pagination navigation links
-   ========================================================================== */
+   Post Pagination Navigation Links
+   ==========================================================================
+*/
 
 .pagination {
   @include full();
@@ -65,7 +66,7 @@
   ul {
     margin: 0;
     padding: 0;
-    list-style-type: none;
+    list-style: none;
     font-family: $sans-serif;
   }
 
@@ -93,7 +94,7 @@
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        background-color: $primary-color;
       }
 
       &.disabled {
@@ -120,49 +121,41 @@
     }
   }
 
-  /* next/previous buttons */
-&--pager {
-  display: block;
-  padding: 1em 2em;
-  float: left;
-  width: 50%;
-  font-family: $sans-serif;
-  font-size: $type-size-5;
-  font-weight: bold;
-  text-align: center;
-  text-decoration: none;
-  color: mix(#fff, $gray, 50%);
-  border: 1px solid $light-gray;
-  border-radius: $border-radius;
-
-  &:hover {
-    color: $link-color-hover;
-  }
-
-  &:first-child {
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
-  }
-
-  &:last-child {
-    margin-left: -1px;
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
-  }
-
-  &.disabled {
-    color: mix(#fff, $gray, 75%);
-    pointer-events: none;
-    cursor: not-allowed;
-  }
-}
-
-/* Media query for mobile devices */
-@media screen and (max-width: 768px) {
+  /* Next/Previous buttons */
   &--pager {
-    width: 100%;
-    float: none;
-    margin-bottom: 1em;
+    display: block;
+    padding: 1em 2em;
+    float: left;
+    width: 50%;
+    font-family: $sans-serif;
+    font-size: $type-size-5;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: mix(#fff, $gray, 50%);
+    border: 1px solid $light-gray;
+    border-radius: $border-radius;
+
+    &:hover {
+      color: $link-color-hover;
+    }
+
+    &:first-child {
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+
+    &:last-child {
+      margin-left: -1px;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+
+    &.disabled {
+      color: mix(#fff, $gray, 75%);
+      pointer-events: none;
+      cursor: not-allowed;
+    }
   }
 }
 
