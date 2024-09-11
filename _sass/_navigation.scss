@@ -66,7 +66,7 @@
   ul {
     margin: 0;
     padding: 0;
-    list-style: none;
+    list-style-type: none;
     font-family: $sans-serif;
   }
 
@@ -94,7 +94,7 @@
 
       &.current {
         color: #fff;
-        background-color: $primary-color;
+        background: $primary-color;
       }
 
       &.disabled {
@@ -159,6 +159,7 @@
   }
 }
 
+/* Pagination block styling for different sections */
 .page__content + .pagination,
 .page__meta + .pagination,
 .page__share + .pagination,
@@ -167,6 +168,7 @@
   padding-top: 2em;
   border-top: 1px solid $border-color;
 }
+
 
 
 
