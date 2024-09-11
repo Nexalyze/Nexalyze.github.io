@@ -53,9 +53,8 @@
 
 
 /*
-   Post Pagination Navigation Links
-   ==========================================================================
-*/
+   Post pagination navigation links
+   ========================================================================== */
 
 .pagination {
   @include full();
@@ -121,7 +120,7 @@
     }
   }
 
-  /* Next/Previous buttons */
+  /* next/previous buttons */
   &--pager {
     display: block;
     padding: 1em 2em;
@@ -157,18 +156,8 @@
       cursor: not-allowed;
     }
   }
-
-  /* Media query for mobile devices */
-  @media screen and (max-width: 768px) {
-    &--pager {
-      width: 100%;
-      float: none;
-      margin-bottom: 1em;
-    }
-  }
 }
 
-/* Pagination block styling for different sections */
 .page__content + .pagination,
 .page__meta + .pagination,
 .page__share + .pagination,
@@ -177,8 +166,6 @@
   padding-top: 2em;
   border-top: 1px solid $border-color;
 }
-
-
 
 
 /*
