@@ -1,6 +1,6 @@
 ---
 title: "The Nifty 50 Stock Prediction Using Machine Learning"
-excerpt: "<br/><img src='/images/nift50epg.jpg'>"
+excerpt: "A Predictive Model to predict Nifty-50 Stock.<br/><img src='/images/nift50epg.jpg'>"
 collection: portfolio
 ---
 

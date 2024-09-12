@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis of Nifty 50"
-excerpt: "<br/><img src='/images/DA.jpg'>"
+excerpt: "A Analysis of Nifty 50 Stocks over the years.<br/><img src='/images/DA.jpg'>"
 collection: portfolio
 ---
 
