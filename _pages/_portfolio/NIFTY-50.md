@@ -1,10 +1,8 @@
 ---
-title: "NIFTY-50 Model"
-excerpt: "<img src='/images/nift50epg.jpg'>"
-description: "A Predictive Model to predict Nifty-50 Stock."
-categories: 
-  - ML Model
-collection: portfolio
+layout: archive
+title: ""
+permalink: /n50/
+author_profile: true
 ---
 
 ![Nifty-50](/images/nifty50.png){: .align-center width="400px"}

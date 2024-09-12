@@ -1,11 +1,8 @@
 ---
-title: "Restaurant Review Sentiment Analysis Model"
-excerpt: "<img src='/images/Restaurant1.jpg'>"
-description: "An NLP Model to predict whether a review is positive or negative."
-categories: 
-  - NLP
-  - ML Model
-collection: portfolio
+layout: archive
+title: ""
+permalink: /rs/
+author_profile: true
 ---
 
 ![Restaurant](/images/Restaurant2.jpg){: .align-center width="400px"}

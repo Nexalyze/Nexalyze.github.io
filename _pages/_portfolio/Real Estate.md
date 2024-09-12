@@ -1,10 +1,8 @@
 ---
-title: "Real Estate Price Prediction Using Machine Learning"
-excerpt: "<img src='/images/RealEstate2.jpg'>"
-description: "A Predictive Model to predict Real Estate Price based on some features as input"
-categories: 
-  - ML Model
-collection: portfolio
+layout: archive
+title: ""
+permalink: /re/
+author_profile: true
 ---
 
 ![Real Estate](/images/RealEstate1.jpg){: .align-center width="400px"}
