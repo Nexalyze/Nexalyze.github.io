@@ -10,13 +10,13 @@ redirect_from:
 <h1 align=center>👋🏼 Hello there, I'm Sourish!</h1>
 <hr>
 
-<h3 style='color:#DD4111; text-align:left'>Welcome to my tech playground, where curiosity meets innovation.</h3>
+<h3 style='color:#F1A512; text-align:left'>Welcome to my tech playground, where curiosity meets innovation.</h3>
 
 I'm an undergrad at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/) with a passion for **Artificial Intelligence** and **Machine Learning**. My fascination with technology started early, inspired by the magic of movies like _Iron Man_, and now I’m on a mission to turn that inspiration into innovation.
 
 ---
 
-<h3 style='color:#5D8AA8; text-align:left'>🌟 What I’m Doing:</h3>
+<h3 style='color: #A1D4B1; text-align:left'>🌟 What I’m Doing:</h3>
 
 I’m currently focused on mastering my college courses and working on exciting challenges like the [SIH-2024](/posts/2024/09/SIH2024/) hackathon. Along the way, I share my journey through **AIML** projects & experiments on [X/Twitter](https://X.com/sourize_), and [My Blog Posts](/year-archive/). From building predictive models to fun games, I’m always exploring new ideas, and any personal projects I start will be added here.
 
