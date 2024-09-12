@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Restaurant Review Sentiment Analysis Model"
+excerpt: "<br/><img src='/images/Restaurant2.jpg'>"
 collection: portfolio
 ---
 
