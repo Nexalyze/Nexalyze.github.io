@@ -29,19 +29,5 @@ author_profile: true
   td {
     padding: 10px;
   }
-
-  /* Light blue background for the first description */
-  tr:first-child td {
-    background-color: #e0f7fa; /* Light blue */
-  }
-
-  /* Change categories text color to another shade of blue */
-  td a {
-    color: #0074D9; /* Lighter shade of blue */
-  }
-
-  /* Optional: Hover effect for categories links */
-  td a:hover {
-    color: #001f3f; /* Deep blue */
-  }
 </style>
+
