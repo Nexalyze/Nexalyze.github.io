@@ -10,7 +10,7 @@ redirect_from:
 <h1 align=center>👋🏼 Hello there, I'm Sourish!</h1>
 <hr>
 
-<h3 style='color:#8C0027; text-align:left'>Welcome to my tech playground, where curiosity meets innovation.</h3>
+<h3 style='color:#DD4111; text-align:left'>Welcome to my tech playground, where curiosity meets innovation.</h3>
 
 I'm an undergrad at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/) with a passion for **Artificial Intelligence** and **Machine Learning**. My fascination with technology started early, inspired by the magic of movies like _Iron Man_, and now I’m on a mission to turn that inspiration into innovation.
 
