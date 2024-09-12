@@ -16,7 +16,7 @@ I'm an undergrad at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteo
 
 ---
 
-<h3 style='color:#5D8AA8; text-align:left'>🌟 What I’m Doing:</h3>
+<h3 style='color:#ffd700; text-align:left'>🌟 What I’m Doing:</h3>
 
 I’m currently focused on mastering my college courses and working on exciting challenges like the **[SIH-2024](/posts/2024/09/SIH2024/)** hackathon. Along the way, I share my journey through **AIML** projects & experiments on [X/Twitter](https://X.com/sourize_), and [My Blog Posts](/year-archive/). From building predictive models to fun games, I’m always exploring new ideas, and any personal projects I start will be added here.
 
