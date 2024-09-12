@@ -31,27 +31,3 @@ author_profile: true
   }
 </style>
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Project</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="/images/Flappy3D.webp" alt="AI-Powered Flappy Bird Game">
-        <br>
-        <a href="/ai/">AI-Powered Flappy Bird Game Using NEAT Algorithm</a>
-        <br>An AI powered Flappy Bird Using NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
-      </td>
-      <td>
-        <img src="/images/DA.jpg" alt="Data Analysis">
-        <br>
-        <a href="/ds/">Data Analysis of NIFTY 50 Dataset</a>
-        <br>A Analysis of Nifty 50 Stocks over the years.
-      </td>
-    </tr>
-  </tbody>
-</table>
