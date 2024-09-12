@@ -28,15 +28,6 @@ I’m currently focused on mastering my college courses and working on exciting 
 
 I bring a strong academic background from [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/), along with hands-on experience in **AI**, **Machine Learning**, and **hackathons**. Whether teaming up with peers or working on open-source projects, I’m always building and improving my skills. Here's a quick look at my journey:
 
-<details>
-  <summary>🎓 Education</summary>
-  <ul>
-    <li><strong>MSIT</strong> - Meghnad Saha Institute of Technology</li>
-    <li><strong>DPSRK</strong> - Delhi Public School, R.K. Puram</li>
-  </ul>
-</details>
-
-
 - [Education](/education.md/)
 - [Skills](/skills.md/)
 - [Experience](/experience.md/)
@@ -69,4 +60,4 @@ Check out my recent [blog entries](/year-archive/) where I share my thoughts on 
 
 ---
 
-**_Thanks for visiting my webpage! 🙌 Feel free to reach out or explore more._**
+_Thanks for visiting my webpage! 🙌 Feel free to reach out or explore more._
