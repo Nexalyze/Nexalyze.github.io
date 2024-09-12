@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: ""
-permalink: /n50/
-author_profile: true
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
 
 ![Nifty-50](/images/nifty50.png){: .align-center width="400px"}

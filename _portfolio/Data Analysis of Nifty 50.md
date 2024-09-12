@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: ""
-permalink: /ds/
-author_profile: true
+title: "Data Analysis of Nifty 50"
+excerpt: "<br/><img src='/images/DA.jpg'>"
+collection: portfolio
 ---
 
 ## Project Overview:

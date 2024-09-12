@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: ""
-permalink: /ec/
-author_profile: true
+title: "Energy Consumption Model"
+excerpt: "<br/><img src='/images/Energy.2jpg'>"
+collection: portfolio
 ---
 
 ![Energy Consumption](/images/Energy1.jpg){: .align-center width="400px"}
