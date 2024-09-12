@@ -1,13 +1,10 @@
 ---
-title: "AI-Powered Flappy Bird Game Using NEAT Algorithm"
-excerpt: "<img src='/images/Flappy3D.webp'>"
-description: "An AI powered Flappy Bird Using NEAT (NeuroEvolution of Augmenting Topologies) algorithm."
-categories: 
-  - AI
-  - Game
-  - NEAT Algorithm
-collection: portfolio
+layout: archive
+title: ""
+permalink: /ai/
+author_profile: true
 ---
+
 
 ![Flappy](/images/flappy_bird.webp){: .align-center width="400px"}
 
