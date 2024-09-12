@@ -1,6 +1,6 @@
 ---
 title: "Energy Consumption Model"
-excerpt: "<br/><img src='/images/Energy.2jpg'>"
+excerpt: "<br/><img src='/images/Energy2.jpg'>"
 collection: portfolio
 ---
 
