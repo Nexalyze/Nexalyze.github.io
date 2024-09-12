@@ -11,3 +11,47 @@ author_profile: true
 | ![Energy Consumption Model](/images/Energy2.jpg)<br>[Energy Consumption Model](/ec/)<br>A Predictive Model to predict Energy Consumption based on some features as input.<br>ML Model | ![NIFTY-50 Model](/images/nift50epg.jpg)<br>[NIFTY-50 Model](/n50/)<br>A Predictive Model to predict Nifty-50 Stock.<br>ML Model |
 | ![Real Estate Price Prediction](/images/RealEstate2.jpg)<br>[Real Estate Price Prediction Using Machine Learning](/re/)<br>A Predictive Model to predict Real Estate Price based on some features as input.<br>ML Model | ![Restaurant Review Sentiment Analysis](/images/Restaurant1.jpg)<br>[Restaurant Review Sentiment Analysis Model](/rs/)<br>An NLP Model to predict whether a review is positive or negative.<br>NLP, ML Model |
 
+
+<style>
+  /* Apply deep blue color to table headers */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th {
+    background-color: #001f3f; /* Deep blue */
+    color: white;
+    padding: 10px;
+    text-align: left;
+  }
+
+  td {
+    padding: 10px;
+  }
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Project</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="/images/Flappy3D.webp" alt="AI-Powered Flappy Bird Game">
+        <br>
+        <a href="/ai/">AI-Powered Flappy Bird Game Using NEAT Algorithm</a>
+        <br>An AI powered Flappy Bird Using NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
+      </td>
+      <td>
+        <img src="/images/DA.jpg" alt="Data Analysis">
+        <br>
+        <a href="/ds/">Data Analysis of NIFTY 50 Dataset</a>
+        <br>A Analysis of Nifty 50 Stocks over the years.
+      </td>
+    </tr>
+  </tbody>
+</table>
