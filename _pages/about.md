@@ -48,7 +48,7 @@ Curious about my work? Browse through some of my favorite projects:
 
 Want to collaborate on a project or just chat? I’m always open to new ideas and connections. Feel free to reach out:
 
-- [**Email**: contact.sourishchatterjee@gmail.com](mailto:contact.sourishchatterjee@gmail.com)
+- [**Email**:](mailto:contact.sourishchatterjee@gmail.com) contact.sourishchatterjee@gmail.com
 - **[LinkedIn](https://linkedin.com/in/sourish-chatterjee)**: Professional updates and networking
 - **[X/Twitter](https://x.com/sourize_)**: Real-time thoughts and project insights
 
