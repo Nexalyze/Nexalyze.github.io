@@ -8,7 +8,7 @@ author_profile: true
 <!-- Grid Container for Portfolio -->
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px; padding: 20px;">
   <!-- First Project -->
-  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 12px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);">
     <h2><a href="/posts/2024/07/AI-Powered Flappy Bird Game Using NEAT Algorithm/">AI-Powered Flappy Bird Game Using NEAT Algorithm</a></h2>
     <p>An AI powered Flappy Bird Using NEAT (NeuroEvolution of Augmenting Topologies) algorithm.</p>
     <p><strong>Categories:</strong> AI, Game</p>
@@ -17,7 +17,7 @@ author_profile: true
   </div>
 
   <!-- Second Project -->
-  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <h3><a href="/posts/2024/08/Data Analysis of Nifty 50/">Data Analysis of NIFTY 50 Dataset</a></h3>
     <p>A Analysis of Nifty 50 Stocks over the years.</p>
     <p><strong>Categories:</strong> Data Analysis</p>
@@ -27,7 +27,7 @@ author_profile: true
   </div>
 
   <!-- Third Project -->
-  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <h3><a href="/posts/2024/07/Energy Consumption Model/">Energy Consumption Model</a></h3>
     <p>A Predictive Model to predict Energy Consumption based on some features as input.</p>
     <p><strong>Categories:</strong> ML Model</p>
@@ -36,7 +36,7 @@ author_profile: true
   </div>
 
   <!-- Fourth Project -->
-  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <h3><a href="/posts/2024/05/The Nifty 50 Stock Prediction Using Machine Learning/">NIFTY-50 Model</a></h3>
     <p>A Predictive Model to predict Nifty-50 Stock.</p>
     <p><strong>Categories:</strong> ML Model</p>
@@ -45,7 +45,7 @@ author_profile: true
   </div>
 
   <!-- Fifth Project -->
-  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <h3><a href="/posts/2024/07/Real Estate Price Prediction Using Machine Learning/">Real Estate Price Prediction Using Machine Learning</a></h3>
     <p>A Predictive Model to predict Real Estate Price based on some features as input.</p>
     <p><strong>Categories:</strong> ML Model</p>
@@ -54,7 +54,7 @@ author_profile: true
   </div>
 
   <!-- Sixth Project -->
-  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <h3><a href="/posts/2024/07/Restaurant Review Sentiment Analysis Model/">Restaurant Review Sentiment Analysis Model</a></h3>
     <p>An NLP Model to predict whether a review is positive or negative.</p>
     <p><strong>Categories:</strong> NLP, ML Model</p>
