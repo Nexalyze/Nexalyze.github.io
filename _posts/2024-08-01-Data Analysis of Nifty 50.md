@@ -1,11 +1,16 @@
 ---
-title: "Data Analysis of Nifty 50"
-excerpt: "A Analysis of Nifty 50 Stocks over the years.<br/><img src='/images/DA.jpg'>"
-collection: portfolio
+title: 'Data Analysis of Nifty 50'
+date: 2024-08-01
+permalink: /posts/2024/08/Data Analysis of Nifty 50/
+tags:
+  - Data Analysis
+
 ---
 
 ## Project Overview:
 This project performs an in-depth analysis of NIFTY 50 stock market data from June 2, 2023, to June 2, 2024, to identify trends and insights for informed investment decisions. Using Python and data analysis tools, the project explores market behavior and provides valuable insights for investors and analysts.
+
+![Data Analysis](/images/DA.jpg){: .align-center width="400px"} 
 
 ### Key Features:
 - **Data Cleaning and Preprocessing**: Handled missing values and outliers to ensure data quality.
