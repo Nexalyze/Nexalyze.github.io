@@ -1,12 +1,14 @@
 ---
-title: "Real Estate Price Prediction Using Machine Learning"
-excerpt: "A Predictive Model to predict Real Estate Price based on some features as input.<br/><img src='/images/RealEstate2.jpg'>"
-collection: portfolio
+title: 'Real Estate Price Prediction Using Machine Learning'
+date: 2024-07-21
+permalink: /posts/2024/07/Real Estate Price Prediction Using Machine Learning/
+tags:
+  - ML Model
+ 
 ---
 
 ![Real Estate](/images/RealEstate1.jpg){: .align-center width="400px"}
 
-# Real Estate Price Prediction Using Machine Learning
 
 This project focuses on building a machine learning model to predict real estate prices based on features such as square footage, number of bedrooms, and number of bathrooms. The model uses advanced data preprocessing and machine learning techniques to provide accurate predictions, helping buyers, sellers, and real estate professionals make informed decisions.
 

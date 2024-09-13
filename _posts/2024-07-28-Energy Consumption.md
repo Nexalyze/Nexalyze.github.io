@@ -1,7 +1,10 @@
 ---
-title: "Energy Consumption Model"
-excerpt: "A Predictive Model to predict Energy Consumption based on some features as input.<br/><img src='/images/Energy2.jpg'>"
-collection: portfolio
+title: 'Energy Consumption Model'
+date: 2024-07-28
+permalink: /posts/2024/07/Energy Consumption Model/
+tags:
+  - ML Model
+ 
 ---
 
 ![Energy Consumption](/images/Energy1.jpg){: .align-center width="400px"}

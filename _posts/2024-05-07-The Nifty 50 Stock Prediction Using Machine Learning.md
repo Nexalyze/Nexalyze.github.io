@@ -1,14 +1,15 @@
 ---
-title: "The Nifty 50 Stock Prediction Using Machine Learning"
-excerpt: "A Predictive Model to predict Nifty-50 Stock.<br/><img src='/images/nift50epg.jpg'>"
-collection: portfolio
+title: 'The Nifty 50 Stock Prediction Using Machine Learning'
+date: 2024-05-07
+permalink: /posts/2024/05/The Nifty 50 Stock Prediction Using Machine Learning/
+tags:
+  - ML Model
+
 ---
 
-![Nifty-50](/images/nifty50.png){: .align-center width="400px"}
-
-**The Nifty 50 Stock Prediction Using Machine Learning**
-
 This project aims to develop a machine learning model that predicts the next day's opening price of Nifty 50 stocks, leveraging historical data. A Random Forest Regressor is used to provide insights that can help traders and investors.
+
+![Nifty-50](/images/nifty50.png){: .align-center width="400px"}
 
 ### Key Features:
 
