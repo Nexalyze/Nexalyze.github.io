@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!-- Grid Container for Portfolio -->
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; padding: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; padding: 20px;">
   <!-- First Project -->
   <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);">
     <h3><a href="/posts/2024/07/AI-Powered Flappy Bird Game Using NEAT Algorithm/">AI-Powered Flappy Bird Game Using NEAT Algorithm</a></h3>
