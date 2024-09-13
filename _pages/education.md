@@ -17,19 +17,22 @@ author_profile: true
 I am currently a third-year student at MSIT, embracing the journey of learning, growth, and enjoyment in my college years. My focus is on AI and ML, where I've developed skills in various programming languages and tools.
 
 
-## Core Skills
-- Machine Learning
-- Deep Learning
-- Operating Systems
-- Data Structures
-- Algorithms
-- Pattern Recognition
+<details>
+  <summary>Core Subjects for this Semester</summary>
 
-## Key Projects
-- [Real-Estate Price Prediction Model](https://github.com/sourize/Real-Estate-Price-Prediction-Using-Machine-Learning)
-- [Nifty-50 Stock Market Prediction Model](https://github.com/sourize/The-Nifty-50-Stock-Prediction-using-Machine-Learning)
-- [AI-Powered Flappy Bird](https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm)
-- [Energy Consumption Model](https://github.com/sourize/EnergyConsumption)
+  - Machine Learning  
+  - Operating Systems  
+  - Pattern Recognition  
+  - OOPs in JAVA  
+  - Statistics & Probability  
+  - Introduction to Industrial Management  
+  - Machine Learning Lab  
+  - Operating System Lab  
+  - OOPs Lab  
+
+</details>
+
+
 
 <h2 style='color:#5D8AA8; text-align:center'>Higher Secondary Education (Computer Science Stream)</h2>
 
