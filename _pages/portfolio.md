@@ -8,12 +8,12 @@ author_profile: true
 <!-- Grid Container for Portfolio -->
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; padding: 20px;">
   <!-- First Project -->
-  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);">
+  <div style="border: 1px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 7 7px 7px rgba(0, 0, 0, 0.1);">
+    <img src='/images/Flappy3D.webp' alt="AI-Powered Flappy Bird Game" style="width:100%;">
     <h3><a href="/posts/2024/07/AI-Powered Flappy Bird Game Using NEAT Algorithm/">AI-Powered Flappy Bird Game Using NEAT Algorithm</a></h3>
     <p>An AI powered Flappy Bird Using NEAT (NeuroEvolution of Augmenting Topologies) algorithm.</p>
     <p><strong>Categories:</strong> AI, Game</p>
     <p><a href="https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm">Code</a></p>
-    <img src='/images/Flappy3D.webp' alt="AI-Powered Flappy Bird Game" style="width:100%;">
   </div>
 
   <!-- Second Project -->
