@@ -7,9 +7,9 @@ tags:
 
 ---
 
-This project aims to develop a machine learning model that predicts the next day's opening price of Nifty 50 stocks, leveraging historical data. A Random Forest Regressor is used to provide insights that can help traders and investors.
-
 ![Nifty-50](/images/nifty50.png){: .align-center width="400px"}
+
+This project aims to develop a machine learning model that predicts the next day's opening price of Nifty 50 stocks, leveraging historical data. A Random Forest Regressor is used to provide insights that can help traders and investors.
 
 ### Key Features:
 

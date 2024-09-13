@@ -8,7 +8,7 @@ tags:
   - AIML
 ---
 
-![Flappy](/images/flappy.png){: .align-center width="400px"}
+![Flappy](/images/Flappy3D.webp){: .align-center width="400px"}
 
 
 The project aims to create an AI agent that autonomously plays Flappy Bird by applying the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, which evolves neural networks over generations to enhance performance.
