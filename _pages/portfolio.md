@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page-archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
