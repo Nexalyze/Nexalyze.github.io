@@ -11,3 +11,5 @@ author_profile: true
 
 - An AI powered Flappy Bird Using NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
 [Read More](https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm) [Code](https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm/blob/main/AI_Bird.py)
+
+---
