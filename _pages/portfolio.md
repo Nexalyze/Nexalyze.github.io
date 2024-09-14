@@ -8,12 +8,12 @@ author_profile: true
 <!-- Grid Container for Portfolio -->
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; padding: 20px;">
   <!-- First Project -->
-  <div style="border: 2px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 7 7px 7px rgba(240, 255, 255, 0.5);">
+  <div style="border: 2px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <img src='/images/Flappy3D.webp' alt="AI-Powered Flappy Bird Game" style="width:100%; border-radius: 22px;">
     <h3><a href="/posts/2024/07/AI-Powered Flappy Bird Game Using NEAT Algorithm/">AI-Powered Flappy Bird Game</a></h3>
     <p>An AI powered Flappy Bird Using NEAT (NeuroEvolution of Augmenting Topologies) Algorithm</p>
     <p><strong>Categories:</strong> AI, Game</p>
-    <p><a href="https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm">Code</a></p>
+    <p><a href="https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm">||Code||</a></p>
   </div>
 
   <!-- Second Project -->
@@ -31,7 +31,7 @@ author_profile: true
     <h3><a href="/posts/2024/07/Energy Consumption Model/">Energy Consumption Model</a></h3>
     <p>A Predictive Model to predict Energy Consumption based on some features as input.</p>
     <p><strong>Categories:</strong> ML Model</p>
-    <p><a href="https://github.com/sourize/EnergyConsumption">Code</a></p>
+    <p><a href="https://github.com/sourize/EnergyConsumption">||Code||</a></p>
   </div>
 
   <!-- Fourth Project -->
@@ -40,7 +40,7 @@ author_profile: true
     <h3><a href="/posts/2024/05/The Nifty 50 Stock Prediction Using Machine Learning/">NIFTY-50 Model</a></h3>
     <p>A Predictive Model to predict Nifty-50 Stock.</p>
     <p><strong>Categories:</strong> ML Model</p>
-    <p><a href="https://github.com/sourize/The-Nifty-50-Stock-Prediction-using-Machine-Learning">Code</a></p>
+    <p><a href="https://github.com/sourize/The-Nifty-50-Stock-Prediction-using-Machine-Learning">||Code||</a></p>
 
   </div>
 
@@ -48,9 +48,9 @@ author_profile: true
   <div style="border: 2px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <img src='/images/RealEstate2.jpg' alt="Real Estate Price Prediction" style="width:100%; border-radius: 22px;">
     <h3><a href="/posts/2024/07/Real Estate Price Prediction Using Machine Learning/">Real Estate Price Prediction Using Machine Learning</a></h3>
-    <p>A Predictive Model to predict Real Estate Price based on some features as input.</p>
+    <p>A Predictive Model to predict Real Estate Price.</p>
     <p><strong>Categories:</strong> ML Model</p>
-    <p><a href="https://github.com/sourize/Real-Estate-Price-Prediction-Using-Machine-Learning">Code</a></p>
+    <p><a href="https://github.com/sourize/Real-Estate-Price-Prediction-Using-Machine-Learning">||Code||</a></p>
   </div>
 
   <!-- Sixth Project -->
@@ -59,6 +59,6 @@ author_profile: true
     <h3><a href="/posts/2024/07/Restaurant Review Sentiment Analysis Model/">Restaurant Review Sentiment Analysis Model</a></h3>
     <p>An NLP Model to predict whether a review is positive or negative.</p>
     <p><strong>Categories:</strong> NLP, ML Model</p>
-    <p><a href="https://github.com/sourize/Restaurant-Review-Sentiment-Analysis-Model">Code</a></p>
+    <p><a href="https://github.com/sourize/Restaurant-Review-Sentiment-Analysis-Model">||Code||</a></p>
   </div>
 </div>
