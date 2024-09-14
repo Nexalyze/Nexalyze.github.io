@@ -22,7 +22,7 @@ author_profile: true
     <h3><a href="/posts/2024/08/Data Analysis of Nifty 50/">Data Analysis of NIFTY 50 Dataset</a></h3>
     <p>A Analysis of Nifty 50 Stocks over the years.</p>
     <p><strong>Categories:</strong> Data Analysis</p>
-    <p><a href="https://github.com/sourize/Data-Analysis-of-NIFTY-50-Dataset">|Code|</a><a href="https://github.com/sourize/Data-Analysis-of-NIFTY-50-Dataset/blob/main/DataAnalysis_on_Nifty%2050.pdf">|PDF|</a></p>
+    <p><a href="https://github.com/sourize/Data-Analysis-of-NIFTY-50-Dataset">||Code|</a><a href="https://github.com/sourize/Data-Analysis-of-NIFTY-50-Dataset/blob/main/DataAnalysis_on_Nifty%2050.pdf">|PDF||</a></p>
   </div>
 
   <!-- Third Project -->
