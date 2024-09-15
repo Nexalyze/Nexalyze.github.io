@@ -16,11 +16,11 @@ An undergrad at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftec
 
 ### 🌟 What I’m Doing:
 
-- Currently focused on mastering my college courses
+- Currently focused on mastering my college courses.
 - Working on [SIH-2024](/posts/2024/09/SIH2024/) hackathon. 
-- Sharing my journey through **AIML** projects & experiments on [X/Twitter](https://X.com/sourize_)  
-- Posting updates on [My Blog Posts](/year-archive/)  
-- Exploring new ideas, from building predictive models to creating fun games  
+- Sharing my journey through **AIML** projects & experiments on [X/Twitter](https://X.com/sourize_).
+- Posting updates on [My Blog Posts](/year-archive/).
+- Exploring new ideas, from building predictive models to creating fun games.
 
 🔗 [Explore more about me](/aboutme/)
 
