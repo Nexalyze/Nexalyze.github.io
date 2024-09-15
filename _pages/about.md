@@ -7,63 +7,71 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 align=center>👋🏼 Hello there, I'm Sourish!</h1>
-<hr>
+<h1 align="center">👋🏼 Hello there, I'm Sourish!</h1>
 
-An undergrad at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/) with a passion for **Artificial Intelligence** and **Machine Learning**. My fascination with technology started early, inspired by the magic of movies like _Iron Man_, and now I’m on a mission to turn that inspiration into innovation.
-
----
-
-### 🌟 What I’m Doing:
-
-- Currently focused on mastering my college courses.
-- Working on [SIH-2024](/posts/2024/09/SIH2024/) Hackathon Project. 
-- Sharing my journey through **AIML** projects & experiments on [X/Twitter](https://X.com/sourize_).
-- Posting updates on [My Blog Posts](/year-archive/).
-- Exploring new ideas, from building predictive models to creating fun games.
-
-🔗 [Explore more about me](/aboutme/)
+<p align="center">
+  <em>AI & ML Enthusiast | Undergrad at <a href="https://www.linkedin.com/school/meghnadsahainstituteoftechnology/">MSIT</a> | Aspiring Innovator</em>
+</p>
 
 ---
 
-### 🎓 Education | 🛠️ Skills | 🏆 Experience:
+### 🚀 About Me
 
-- Strong academic background from [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/)  
-- Hands-on experience in **AI**, **Machine Learning**, and **hackathons**  
-- Teaming up with peers and contributing to open-source projects  
-- Continuously building and improving skills  
+Inspired by the magic of _Iron Man_, I'm on a mission to turn sci-fi into reality through **Artificial Intelligence** and **Machine Learning**. As an undergrad, I'm constantly exploring, learning, and creating in the world of tech.
 
-Quick links to my journey:  
-- [Education](/education.md/)  
-- [Skills](/skills.md/)  
-- [Experience](/experience.md/)  
+### 🌟 Current Focus
 
----
+- 📚 Mastering my college courses
+- 🛠️ Working on [SIH-2024](/posts/2024/09/SIH2024/) Hackathon Project
+- 🐦 Sharing AIML projects on [X/Twitter](https://X.com/sourize_)
+- ✍️ Updating [My Blog](/year-archive/) with latest insights
+- 🧠 Exploring ideas from predictive models to fun games
 
-### 🚀 Portfolio:
-
-Curious about my work? Browse through some of my favorite projects:
-
-- [My Portfolio](/portfolio/)
-- [GitHub Projects](https://github.com/sourize?tab=repositories)
-- [Blogs & Insights](/year-archive/)
+<p align="center"><a href="/aboutme/">🔍 Dive deeper into my journey</a></p>
 
 ---
 
-### ✉️ Let's Connect:
+### 💼 Skills & Experience
 
-Want to collaborate on a project or just chat? I’m always open to new ideas and connections. Feel free to reach out:
+- 🎓 Strong academic foundation from [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/)
+- 💻 Hands-on with AI, ML, and hackathons
+- 🤝 Collaborative spirit in team projects and open-source contributions
+- 📈 Continuously evolving skill set
 
-- [**Email**:](mailto:contact.sourishchatterjee@gmail.com) contact.sourishchatterjee@gmail.com
-- **[LinkedIn](https://linkedin.com/in/sourish-chatterjee)**: Professional updates and networking
-- **[X/Twitter](https://x.com/sourize_)**: Real-time thoughts and project insights
+<details>
+<summary><strong>Quick Links to My Journey</strong></summary>
+
+- [📚 Education](/education.md/)
+- [🛠️ Skills](/skills.md/)
+- [🏆 Experience](/experience.md/)
+</details>
 
 ---
 
-### 📝 Latest Blog Posts:
+### 🎨 Portfolio Highlights
 
-Check out my recent [blog entries](/year-archive/) where I share my thoughts on tech trends, hackathon strategies, and more...
+<p align="center">
+  <a href="/portfolio/">📁 My Portfolio</a> | 
+  <a href="https://github.com/sourize?tab=repositories">🐙 GitHub Projects</a> | 
+  <a href="/year-archive/">📝 Blogs & Insights</a>
+</p>
 
 ---
 
-_Thanks for visiting my webpage! 🙌 Feel free to reach out or explore more._
+### 📬 Let's Connect!
+
+I'm always excited to collaborate on projects or just chat about tech. Reach out anytime:
+
+- 📧 [Email](mailto:contact.sourishchatterjee@gmail.com): contact.sourishchatterjee@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/sourish-chatterjee): Professional updates
+- 🐦 [X/Twitter](https://x.com/sourize_): Real-time thoughts and project insights
+
+---
+
+### 📚 Latest Blog Posts
+
+Stay updated with my thoughts on tech trends, hackathon strategies, and more in my [recent blog entries](/year-archive/).
+
+---
+
+<p align="center"><em>Thanks for stopping by! 🙌 Feel free to explore and reach out.</em></p>
