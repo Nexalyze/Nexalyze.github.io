@@ -10,14 +10,16 @@ redirect_from:
 <h1 align="center">👋🏼 Hello there, I'm Sourish!</h1>
 
 <p align="center">
-  <em>AI & ML Enthusiast | Undergrad at <a href="https://www.linkedin.com/school/meghnadsahainstituteoftechnology/">MSIT</a> | Aspiring Innovator</em>
+  <em>An Aspiring ML Engineer | Undergrad at <a href="https://www.linkedin.com/school/meghnadsahainstituteoftechnology/">MSIT</a> | Data Science & Predictive Modeling</em>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Inspired by the magic of _Iron Man_, I'm on a mission to turn sci-fi into reality through **Artificial Intelligence** and **Machine Learning**. As an undergrad, I'm constantly exploring, learning, and creating in the world of tech.
+An undergrad at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/) with a passion for **Artificial Intelligence** and **Machine 
+Learning**. My fascination with technology started early, inspired by the magic of movies like _Iron Man_, and now I’m on a mission to turn that 
+inspiration into innovation.
 
 ### 🌟 Current Focus
 
