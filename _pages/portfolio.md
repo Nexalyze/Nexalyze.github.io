@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!-- Grid Container for Portfolio -->
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px; padding: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; padding: 20px;">
   <!-- First Project -->
   <div style="border: 2px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     <img src='/images/Flappy3D.webp' alt="AI-Powered Flappy Bird Game" style="width:100%; border-radius: 22px;">
