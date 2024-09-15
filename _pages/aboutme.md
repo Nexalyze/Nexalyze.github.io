@@ -9,7 +9,7 @@ author_profile: true
 ## 📄 Resume
 <div style="text-align: center; margin: 30px 0;">
   <a href="/files/Sourish_Chatterjee.pdf" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">
-    <i class="fas fa-file-alt" style="margin-right: 10px;"></i> View My Resume
+    <i class="fas fa-file-alt" style="margin-right: 10px;"></i> Check out my Resume
   </a>
 </div>
 
@@ -29,11 +29,24 @@ It all started with a spark—a fascination with how technology could unlock the
 
 ## 🔧 My Toolkit
 
-| Skill | Description |
-|-------|-------------|
-| **AI/ML Wizardry** | Bringing ideas to life using neural networks, random forests, and other ML models. Python is my go-to language. |
-| **Data Whisperer** | Transforming raw data into actionable insights with Pandas, Numpy, and Matplotlib. |
-| **Team Player** | Collaborating effectively through internships, hackathons, and group projects. |
+<table style="color: #333; background-color: #f8f8f8; border: 1px solid #ccc;">
+  <tr>
+    <th style="padding: 10px; border: 1px solid #ccc; background-color: #e8e8e8;">Skill</th>
+    <th style="padding: 10px; border: 1px solid #ccc; background-color: #e8e8e8;">Description</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ccc;"><strong>AI/ML Wizardry</strong></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">Bringing ideas to life using neural networks, random forests, and other ML models. Python is my go-to language.</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ccc;"><strong>Data Whisperer</strong></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">Transforming raw data into actionable insights with Pandas, Numpy, and Matplotlib.</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ccc;"><strong>Team Player</strong></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">Collaborating effectively through internships, hackathons, and group projects.</td>
+  </tr>
+</table>
 
 👉 Curious about my tools? Check out my [Technical Skills](/skills.md/).
 
