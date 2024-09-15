@@ -4,37 +4,63 @@ title: ""
 permalink: /aboutme/
 author_profile: true
 ---
-📄 **Check out my Resume**: [Sourish Chatterjee](\files\Sourish_Chatterjee.pdf)
-<hr>
+# 👋 Hi, I'm Sourish Chatterjee
 
-## Who is Sourish?
+## 📄 Resume
+<div style="text-align: center; margin: 30px 0;">
+  <a href="/files/Sourish_Chatterjee.pdf" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">
+    <i class="fas fa-file-alt" style="margin-right: 10px;"></i> View My Resume
+  </a>
+</div>
 
-I’m Sourish Chatterjee, a tech enthusiast with a deep-seated love for AI and ML. My journey began at Ram Mohan Mission High School, where my curiosity for technology first took root, and it blossomed into a full-fledged passion at DPS Ruby Park as I delved into the world of Computer Science.
+---
 
-### Why AI & ML?
+## 🧠 Who is Sourish?
 
-It all started with a spark—a fascination with how technology could unlock the mysteries of the universe, inspired by the genius of _Tony Stark_. Today, I channel that spark into crafting models that push the boundaries of Artificial Intelligence, from predicting [stock markets](https://github.com/sourize/The-Nifty-50-Stock-Prediction-using-Machine-Learning) to [evolving game AI](https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm).
+I'm a tech enthusiast with a deep passion for AI and ML. My journey began at Ram Mohan Mission High School, where my curiosity for technology first took root. It blossomed into a full-fledged passion at DPS Ruby Park as I delved into the world of Computer Science.
 
-## My Toolkit 🔧
+### 💡 Why AI & ML?
 
-- **AI/ML Wizardry:** I bring ideas to life using neural networks, random forests, and other machine learning models. My languages of choice? Python.
-- **Data Whisperer:** I transform raw data into actionable insights with Pandas, Numpy, and Matplotlib, turning chaos into clarity.
-- **Team Player:** Collaboration is key. Through internships, hackathons, and group projects, I’ve learned that the best solutions often come from teamwork.
-Curious about the tools I use and how I apply them? Check out my [Technical Skills](/skills.md/).
+It all started with a spark—a fascination with how technology could unlock the mysteries of the universe, inspired by the genius of _Tony Stark_. Today, I channel that spark into:
 
-## My Adventures 🚀
+- Crafting models that push the boundaries of Artificial Intelligence
+- Predicting [stock markets](https://github.com/sourize/The-Nifty-50-Stock-Prediction-using-Machine-Learning)
+- [Evolving game AI](https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm)
 
-My journey has taken me through exciting projects like a [Real-Estate Price Prediction Model](https://github.com/sourize/Real-Estate-Price-Prediction-Using-Machine-Learning), a [Stock Market Prediction Model](https://github.com/sourize/The-Nifty-50-Stock-Prediction-using-Machine-Learning), and even an [AI-powered Flappy Bird Game using NeuroEvolution](https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm). Each project has taught me to navigate the complex world of AI/ML, balancing creativity with precision.
+## 🔧 My Toolkit
 
-Want to see more of what I’ve been up to? Dive into my [Experience](/experience/) for a deeper look.
+| Skill | Description |
+|-------|-------------|
+| **AI/ML Wizardry** | Bringing ideas to life using neural networks, random forests, and other ML models. Python is my go-to language. |
+| **Data Whisperer** | Transforming raw data into actionable insights with Pandas, Numpy, and Matplotlib. |
+| **Team Player** | Collaborating effectively through internships, hackathons, and group projects. |
 
-## The Road Ahead 🛣️
+👉 Curious about my tools? Check out my [Technical Skills](/skills.md/).
 
-Where do I see myself? At a tech giant like Google or Microsoft 😅, contributing to groundbreaking ML projects. In five years, I envision myself as a seasoned ML Engineer, shaping the future with innovative models and cutting-edge solutions.
+## 🚀 My Adventures
 
+My journey has led me through exciting projects:
 
-Want to know more about where I come from and where I'm headed? Check out my [Education](/education/).
-<br>
+1. [Real-Estate Price Prediction Model](https://github.com/sourize/Real-Estate-Price-Prediction-Using-Machine-Learning)
+2. [Stock Market Prediction Model](https://github.com/sourize/The-Nifty-50-Stock-Prediction-using-Machine-Learning)
+3. [AI-powered Flappy Bird Game using NeuroEvolution](https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm)
 
-## Let’s Chat 💬
-If you’re passionate about AI, love a good tech conversation, or just want to say hi, don’t hesitate to reach out on [LinkedIn](https://linkedin.com/in/sourish-chatterjee) or [X/Twitter](https://x.com/sourize_). Let’s build something amazing together!
+Each project has taught me to navigate the complex world of AI/ML, balancing creativity with precision.
+
+👉 Want to see more? Dive into my [Experience](/experience/).
+
+## 🛣️ The Road Ahead
+
+- **Short-term goal**: Contributing to groundbreaking ML projects
+- **5-year vision**: Becoming a seasoned ML Engineer, shaping the future with innovative models and cutting-edge solutions
+
+👉 Curious about my background? Check out my [Education](/education/).
+
+## 💬 Let's Chat
+
+If you're passionate about AI, love a good tech conversation, or just want to say hi, reach out:
+
+- [LinkedIn](https://linkedin.com/in/sourish-chatterjee)
+- [X/Twitter](https://x.com/sourize_)
+
+Let's build something amazing together!
