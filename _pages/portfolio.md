@@ -45,7 +45,7 @@ author_profile: true
   </div>
 
   <!-- Fifth Project -->
-  <div style="border: 2px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  <div style="border: 2px solid #ddd; padding: 20px; background-color: #1E3D58; border-radius: 22px; box-shadow: 0 2px 4px rgba(255, 255, 255, 0.5);">
     <img src='/images/RealEstate2.jpg' alt="Real Estate Price Prediction" style="width:100%; border-radius: 22px;">
     <h3><a href="/posts/2024/07/Real Estate Price Prediction Using Machine Learning/">Real Estate Price Prediction Using Machine Learning</a></h3>
     <p>A Predictive Model to predict Real Estate Price based on some features as input.</p>
