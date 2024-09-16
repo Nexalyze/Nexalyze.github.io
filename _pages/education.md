@@ -18,14 +18,14 @@ As a third-year student at MSIT, I'm immersed in the exciting world of AI and ML
 
 <details>
   <summary><strong>Current Semester Core Subjects</strong></summary>
-
-  - Machine Learning (Theory & Lab)
-  - Operating Systems (Theory & Lab)
-  - Pattern Recognition
-  - Object-Oriented Programming in Java (Theory & Lab)
-  - Statistics & Probability
-  - Introduction to Industrial Management
-
+  <ul>
+    <li>Machine Learning (Theory & Lab)</li>
+    <li>Operating Systems (Theory & Lab)</li>
+    <li>Pattern Recognition</li>
+    <li>Object-Oriented Programming in Java (Theory & Lab)</li>
+    <li>Statistics & Probability</li>
+    <li>Introduction to Industrial Management</li>
+  </ul>
 </details>
 
 ---
