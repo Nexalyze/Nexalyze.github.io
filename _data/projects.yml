@@ -19,4 +19,43 @@
     - text: "PDF"
       url: "https://github.com/sourize/Data-Analysis-of-NIFTY-50-Dataset/blob/main/DataAnalysis_on_Nifty%2050.pdf"
 
+- title: "Energy Consumption Model"
+  image: "/images/Energy2.jpg"
+  description: "A Predictive Model to predict Energy Consumption based on some features as input."
+  categories:
+    -  ML Model
+  links:
+    - text: "Code"
+      url: "https://github.com/sourize/EnergyConsumption"
+
+- title: "NIFTY-50 Model"
+  image: "/images/nift50epg.jpg"
+  description: "A Predictive Model to predict Nifty-50 Stock."
+  categories:
+    - ML Model
+    - Stock Prediction
+  links:
+    - text: "Code"
+      url: "https://github.com/sourize/The-Nifty-50-Stock-Prediction-using-Machine-Learning"
+
+- title: "Real Estate Price Prediction"
+  image: "/images/RealEstate2.jpg"
+  description: "A Predictive Model to predict Real Estate Price based on some features as input."
+  categories:
+    - ML Model
+    - Real Estate
+  links:
+    - text: "Code"
+      url: "https://github.com/sourize/Real-Estate-Price-Prediction-using-Machine-Learning"
+  
+- title: "Restaurant Review Sentiment Analysis"
+  image: "/images/Restaurant1.jpg"
+  description: "An NLP Model to predict whether a review is positive or negative."
+  categories:
+    - NLP
+    - ML Model
+  links:
+    - text: "Code"
+      url: "https://github.com/sourize/Restaurant-Review-Sentiment-Analysis-Model"
+
 # Add more projects following the same structure
