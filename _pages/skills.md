@@ -5,7 +5,7 @@ permalink: /skills/
 author_profile: true
 ---
 
-<h1 align="center" style="color: #2c3e50; font-size: 2.5em; margin-bottom: 30px;">Technical Proficiencies</h1>
+<h1 align="center" style="color: #D3D3D3; font-size: 2.5em; margin-bottom: 30px;">Technical Proficiencies</h1>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px;">
 

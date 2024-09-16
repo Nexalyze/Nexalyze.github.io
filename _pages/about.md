@@ -42,9 +42,9 @@ I’m an undergrad at [MSIT](https://www.linkedin.com/school/meghnadsahainstitut
 <summary><strong>Quick Links to My Journey</strong></summary>
 
 <ul>
-  <li><a href="/education.md/">📚 Education</a></li>
-  <li><a href="/skills.md/">🛠️ Skills</a></li>
-  <li><a href="/experience.md/">🏆 Experience</a></li>
+  <li><a href="/education/">📚 Education</a></li>
+  <li><a href="/skills/">🛠️ Skills</a></li>
+  <li><a href="/experience/">🏆 Experience</a></li>
 </ul>
 </details>
 
