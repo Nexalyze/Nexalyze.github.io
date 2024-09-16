@@ -7,6 +7,8 @@
   links:
     - text: "Code"
       url: "https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm"
+    - text: "Read More"
+      url: "/posts/2024/07/AI-Powered Flappy Bird Game Using NEAT Algorithm/"
 
 - title: "Data Analysis of NIFTY 50 Dataset"
   image: "/images/DA.jpg"
@@ -18,6 +20,8 @@
       url: "https://github.com/sourize/Data-Analysis-of-NIFTY-50-Dataset"
     - text: "PDF"
       url: "https://github.com/sourize/Data-Analysis-of-NIFTY-50-Dataset/blob/main/DataAnalysis_on_Nifty%2050.pdf"
+    - text: "Read More"
+      url: "/posts/2024/07/Data Analysis of NIFTY 50 Dataset/"
 
 - title: "Energy Consumption Model"
   image: "/images/Energy2.jpg"
@@ -27,6 +31,8 @@
   links:
     - text: "Code"
       url: "https://github.com/sourize/EnergyConsumption"
+    - text: "Read More"
+      url: "/posts/2024/07/Energy Consumption Model/"
 
 - title: "NIFTY-50 Model"
   image: "/images/nift50epg.jpg"
@@ -37,6 +43,8 @@
   links:
     - text: "Code"
       url: "https://github.com/sourize/The-Nifty-50-Stock-Prediction-using-Machine-Learning"
+    - text: "Read More"
+      url: "/posts/2024/07/NIFTY-50 Model/"
 
 - title: "Real Estate Price Prediction"
   image: "/images/RealEstate2.jpg"
@@ -47,7 +55,9 @@
   links:
     - text: "Code"
       url: "https://github.com/sourize/Real-Estate-Price-Prediction-using-Machine-Learning"
-  
+    - text: "Read More"
+      url: "/posts/2024/07/Real Estate Price Prediction/"
+
 - title: "Restaurant Review Sentiment Analysis"
   image: "/images/Restaurant1.jpg"
   description: "An NLP Model to predict whether a review is positive or negative."
@@ -57,5 +67,7 @@
   links:
     - text: "Code"
       url: "https://github.com/sourize/Restaurant-Review-Sentiment-Analysis-Model"
+    - text: "Read More"
+      url: "/posts/2024/07/Restaurant Review Sentiment Analysis/"
 
 # Add more projects following the same structure
