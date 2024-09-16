@@ -15,9 +15,15 @@ redirect_from:
 
 ---
 
-I am an [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/) undergraduate with a strong interest in **Artificial Intelligence** and **Machine Learning**. Inspired by the world of technology, I'm now working on the [SIH-2024 Hackathon](https://www.sih.gov.in/), sharing AI/ML ideas across several platforms and constantly honing my talents. My primary focus is on mastering my collegecoursework, contributing to open-source projects, and applying predictive models to real-world problems and creative applications.
+I’m an undergrad at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/) with a passion for **Artificial Intelligence** and **Machine Learning**. My fascination with technology started early, inspired by the magic of movies like _Iron Man_, and now I’m on a mission to turn that inspiration into innovation.
 
-I have a solid academic foundation, practical expertise with AI and ML projects, and thrive in collaborative contexts. I'm constantly willing to learn and contribute, both individually and together.
+### 🌟 Current Focus
+
+- 📚 Mastering my college courses
+- 🛠️ Working on [SIH-2024](/posts/2024/09/SIH2024/) Hackathon Project
+- 🐦 Sharing AIML projects on [X/Twitter](https://X.com/sourize_)
+- ✍️ Updating [My Blog](/year-archive/) with latest insights
+- 🧠 Exploring ideas from predictive models to fun games
 
 <p align="center"><a href="/aboutme/">🔍 Dive deeper into my journey</a></p>
 
@@ -25,11 +31,20 @@ I have a solid academic foundation, practical expertise with AI and ML projects,
 
 ### 💼 Skills & Experience
 
-<p align="center">
-  <a href="/education/">📚 Education </a> | 
-  <a href="/skills/">🛠️ Skills </a> | 
-  <a href="/experience/">🏆 Experience </a>
-</p>
+- 🎓 Strong academic foundation from [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/)
+- 💻 Hands-on with AI, ML, and hackathons
+- 🤝 Collaborative spirit in team projects and open-source contributions
+- 📈 Continuously evolving skill set
+
+<details>
+<summary><strong>Quick Links to My Journey</strong></summary>
+
+<ul>
+  <li><a href="/education/">📚 Education</a></li>
+  <li><a href="/skills/">🛠️ Skills</a></li>
+  <li><a href="/experience/">🏆 Experience</a></li>
+</ul>
+</details>
 
 ---
 
@@ -37,8 +52,8 @@ I have a solid academic foundation, practical expertise with AI and ML projects,
 
 <p align="center">
   <a href="/portfolio/">📁 My Portfolio</a> | 
-  <a href="https://github.com/sourize?tab=repositories">🐙 GitHub </a> | 
-  <a href="/year-archive/">📝 Blogs </a>
+  <a href="https://github.com/sourize?tab=repositories">🐙 GitHub Projects</a> | 
+  <a href="/year-archive/">📝 Blogs & Insights</a>
 </p>
 
 ---
@@ -50,6 +65,12 @@ I'm always excited to collaborate on projects or just chat about tech. Reach out
 - 📧 [Email](mailto:contact.sourishchatterjee@gmail.com): contact.sourishchatterjee@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/sourish-chatterjee): Professional updates
 - 🐦 [X/Twitter](https://x.com/sourize_): Real-time thoughts and project insights
+
+---
+
+### 📚 Latest Blog Posts
+
+Stay updated with my thoughts on tech trends, hackathon strategies, and more in my [recent blog entries](/year-archive/).
 
 ---
 
