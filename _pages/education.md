@@ -4,53 +4,64 @@ title: ""
 permalink: /education/
 author_profile: true
 ---
-<h1 align=center>🏫 Education</h1>
+<h1 align="center">🏫 Education</h1>
 
-<h2 style='color:#5D8AA8; text-align:center'>B.Tech in Computer Science and Engineering 
-(Specialization in Artificial Intelligence and Machine Learning)</h2>
+<h2 style="color:#5D8AA8; text-align:center">B.Tech in Computer Science and Engineering</h2>
+<h3 style="color:#5D8AA8; text-align:center">(Specialization in Artificial Intelligence and Machine Learning)</h3>
 
 ![MSIT](/images/msit.png){: .align-right width="80px"}
-<br>
-*Meghnad Saha Institute of Technology (MSIT), Kolkata*  
+
+**Meghnad Saha Institute of Technology (MSIT), Kolkata**  
 *Sep 2022 - Expected Graduation: 2026*
 
-I am currently a third-year student at MSIT, embracing the journey of learning, growth, and enjoyment in my college years. My focus is on AI and ML, where I've developed skills in various programming languages and tools.
-
+As a third-year student at MSIT, I'm immersed in the exciting world of AI and ML. My journey here has been marked by continuous learning, personal growth, and the development of crucial skills in various programming languages and tools.
 
 <details>
-  <summary>Core Subjects for this Semester</summary>
+  <summary><strong>Current Semester Core Subjects</strong></summary>
 
-  - Machine Learning  
-  - Operating Systems  
-  - Pattern Recognition  
-  - OOPs in JAVA  
-  - Statistics & Probability  
-  - Introduction to Industrial Management  
-  - Machine Learning Lab  
-  - Operating System Lab  
-  - OOPs Lab  
+  - Machine Learning (Theory & Lab)
+  - Operating Systems (Theory & Lab)
+  - Pattern Recognition
+  - Object-Oriented Programming in Java (Theory & Lab)
+  - Statistics & Probability
+  - Introduction to Industrial Management
 
 </details>
 
+---
 
-
-<h2 style='color:#5D8AA8; text-align:center'>Higher Secondary Education (Computer Science Stream)</h2>
+<h2 style="color:#5D8AA8; text-align:center">Higher Secondary Education</h2>
+<h3 style="color:#5D8AA8; text-align:center">(Computer Science Stream)</h3>
 
 ![DPSRPK](/images/dpsrpk.png){: .align-right width="80px"}
-<br>
-*Delhi Public School, Ruby Park, Kolkata*  
+
+**Delhi Public School, Ruby Park, Kolkata**  
 *2020 - 2022*
 
-I transitioned to DPS Ruby Park in Class 11 to pursue the CBSE board and specialize in Computer Science, which was not available at my former school. This move allowed me to deepen my understanding and passion for technology.
+To pursue my passion for technology, I transferred to DPS Ruby Park for my 11th and 12th grades. This strategic move allowed me to:
 
-- **Core Skills:** Communication, Python (Programming Language), SQL (Basic).
+- Follow the CBSE curriculum
+- Specialize in Computer Science
+- Deepen my understanding of technology
 
-<h2 style='color:#5D8AA8; text-align:center'>High School</h2>
+**Key Skills Acquired:**
+- Advanced Communication
+- Python Programming
+- Basic SQL
+
+---
+
+<h2 style="color:#5D8AA8; text-align:center">High School Education</h2>
 
 ![RMMHS](/images/rmmhs.png){: .align-right width="80px"}
-<br>
-*Ram Mohan Mission High School, Kolkata*  
+
+**Ram Mohan Mission High School, Kolkata**  
 *2007 - 2020*
 
-My educational journey began at Ram Mohan Mission High School, where I spent my formative years. Some of my best childhood memories are from here, and it was where my initial interest in technology began to take root.
+My educational foundation was laid at Ram Mohan Mission High School. This institution not only provided me with a strong academic base but also:
 
+- Nurtured my initial interest in technology
+- Helped shape my formative years
+- Created lasting memories and friendships
+
+It was here that the seeds of my passion for computer science were first sown, setting the stage for my future academic pursuits.
