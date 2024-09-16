@@ -6,39 +6,37 @@ author_profile: true
 ---
 
 <style>
-  .carousel-container {
-    position: relative;
-    width: 100%;
-    height: 500px;
-    overflow: hidden;
-  }
-  .carousel {
-    display: flex;
-    transition: transform 0.5s ease;
+  .masonry-container {
+    column-count: 3;
+    column-gap: 20px;
+    padding: 20px;
   }
   .project-card {
-    flex: 0 0 100%;
+    break-inside: avoid;
     background-color: #1E3D58;
-    color: white;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-  .project-image {
-    width: 300px;
-    height: 200px;
-    object-fit: cover;
     border-radius: 10px;
     margin-bottom: 20px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+  }
+  .project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  }
+  .project-image {
+    width: 100%;
+    height: auto;
+  }
+  .project-info {
+    padding: 15px;
   }
   .project-title {
     color: #3498db;
+    margin-top: 0;
   }
   .project-description {
-    max-width: 600px;
-    margin: 10px 0;
+    color: #e0e0e0;
+    font-size: 0.9em;
   }
   .project-categories {
     font-style: italic;
@@ -52,31 +50,29 @@ author_profile: true
     color: white;
     text-decoration: none;
     border-radius: 5px;
-    margin: 5px;
+    margin-right: 10px;
     transition: background-color 0.3s ease;
   }
   .project-links a:hover {
     background-color: #2c3e50;
   }
-  .carousel-button {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background-color: rgba(0,0,0,0.5);
-    color: white;
-    border: none;
-    padding: 10px;
-    cursor: pointer;
+  @media (max-width: 1000px) {
+    .masonry-container {
+      column-count: 2;
+    }
   }
-  .carousel-button.prev { left: 10px; }
-  .carousel-button.next { right: 10px; }
+  @media (max-width: 600px) {
+    .masonry-container {
+      column-count: 1;
+    }
+  }
 </style>
 
-<div class="carousel-container">
-  <div class="carousel">
-    {% for project in site.data.projects %}
-      <div class="project-card">
-        <img class="project-image" src="{{ project.image }}" alt="{{ project.title }}">
+<div class="masonry-container">
+  {% for project in site.data.projects %}
+    <div class="project-card">
+      <img class="project-image" src="{{ project.image }}" alt="{{ project.title }}">
+      <div class="project-info">
         <h2 class="project-title">{{ project.title }}</h2>
         <p class="project-description">{{ project.description }}</p>
         <p class="project-categories"><strong>Categories:</strong> {{ project.categories | join: ", " }}</p>
@@ -86,30 +82,6 @@ author_profile: true
           {% endfor %}
         </div>
       </div>
-    {% endfor %}
-  </div>
-  <button class="carousel-button prev">&lt;</button>
-  <button class="carousel-button next">&gt;</button>
+    </div>
+  {% endfor %}
 </div>
-
-<script>
-  const carousel = document.querySelector('.carousel');
-  const prevButton = document.querySelector('.prev');
-  const nextButton = document.querySelector('.next');
-  let currentIndex = 0;
-
-  function showProject(index) {
-    const offset = index * -100;
-    carousel.style.transform = `translateX(${offset}%)`;
-  }
-
-  prevButton.addEventListener('click', () => {
-    currentIndex = (currentIndex - 1 + {{ site.data.projects.size }}) % {{ site.data.projects.size }};
-    showProject(currentIndex);
-  });
-
-  nextButton.addEventListener('click', () => {
-    currentIndex = (currentIndex + 1) % {{ site.data.projects.size }};
-    showProject(currentIndex);
-  });
-</script>
