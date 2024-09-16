@@ -1,7 +1,7 @@
 ---
 title: 'How Great Leaders Inspire Action: A Lesson from Simon Sinek’s TED Talk'
 date: 2024-08-20
-permalink: /posts/2024/08/How Great Leaders Inspire Action/
+permalink: /posts/2024/08/HowGreatLeadersInspireAction/
 tags:
   - Personal Development
   - Communication

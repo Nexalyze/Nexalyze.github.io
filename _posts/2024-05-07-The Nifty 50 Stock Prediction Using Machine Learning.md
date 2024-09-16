@@ -1,7 +1,7 @@
 ---
 title: 'The Nifty 50 Stock Prediction Using Machine Learning'
 date: 2024-05-07
-permalink: /posts/2024/05/The Nifty 50 Stock Prediction Using Machine Learning/
+permalink: /posts/2024/05/TheNifty50StockPredictionUsingMachineLearning/
 tags:
   - ML Model
 

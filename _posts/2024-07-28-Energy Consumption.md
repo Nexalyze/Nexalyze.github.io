@@ -1,7 +1,7 @@
 ---
 title: 'Energy Consumption Model'
 date: 2024-07-28
-permalink: /posts/2024/07/Energy Consumption Model/
+permalink: /posts/2024/07/EnergyConsumptionModel/
 tags:
   - ML Model
  

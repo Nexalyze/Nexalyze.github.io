@@ -1,7 +1,7 @@
 ---
 title: 'AI-Powered Flappy Bird Game Using NEAT Algorithm'
 date: 2024-07-28
-permalink: /posts/2024/07/AI-Powered Flappy Bird Game Using NEAT Algorithm/
+permalink: /posts/2024/07/AIPoweredFlappyBirdGameUsingNEATAlgorithm/
 tags:
   - Personal Project
   - Game

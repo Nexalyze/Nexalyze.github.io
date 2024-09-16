@@ -6,7 +6,7 @@
     - Game
   links:
     - text: "Read More"
-      url: "/posts/2024/07/AI-Powered Flappy Bird Game Using NEAT Algorithm/"
+      url: "/posts/2024/07/AIPoweredFlappyBirdGameUsingNEATAlgorithm/"
     - text: "Code"
       url: "https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm"
 
@@ -17,7 +17,7 @@
     - Data Analysis
   links:
     - text: "Read More"
-      url: "/posts/2024/07/Data Analysis of NIFTY 50 Dataset/"
+      url: "/posts/2024/08/DataAnalysisofNifty50/"
     - text: "Code"
       url: "https://github.com/sourize/Data-Analysis-of-NIFTY-50-Dataset"
     - text: "PDF"
@@ -30,7 +30,7 @@
     -  ML Model
   links:
     - text: "Read More"
-      url: "/posts/2024/07/Energy Consumption Model/"
+      url: "/posts/2024/07/EnergyConsumptionModel/"
     - text: "Code"
       url: "https://github.com/sourize/EnergyConsumption"
 
@@ -43,7 +43,7 @@
     - Stock Prediction
   links:
     - text: "Read More"
-      url: "/posts/2024/07/NIFTY-50 Model/"
+      url: "/posts/2024/05/TheNifty50StockPredictionUsingMachineLearning/"
     - text: "Code"
       url: "https://github.com/sourize/The-Nifty-50-Stock-Prediction-using-Machine-Learning"
 
@@ -55,7 +55,7 @@
     - Real Estate
   links:
     - text: "Read More"
-      url: "/posts/2024/07/Real Estate Price Prediction/"
+      url: "/posts/2024/07/RealEstatePricePredictionUsingMachineLearning/"
     - text: "Code"
       url: "https://github.com/sourize/Real-Estate-Price-Prediction-using-Machine-Learning"
 
@@ -68,7 +68,7 @@
     - ML Model
   links:
     - text: "Read More"
-      url: "/posts/2024/07/Restaurant Review Sentiment Analysis/"
+      url: "/posts/2024/07/RestaurantReviewSentimentAnalysisModel/"
     - text: "Code"
       url: "https://github.com/sourize/Restaurant-Review-Sentiment-Analysis-Model"
 

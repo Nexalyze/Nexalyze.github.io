@@ -1,7 +1,7 @@
 ---
 title: 'Restaurant Review Sentiment Analysis Model'
 date: 2024-07-26
-permalink: /posts/2024/07/Restaurant Review Sentiment Analysis Model/
+permalink: /posts/2024/07/RestaurantReviewSentimentAnalysisModel/
 tags:
   - ML Model
   - NLP

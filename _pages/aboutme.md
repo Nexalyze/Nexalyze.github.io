@@ -4,12 +4,11 @@ title: ""
 permalink: /aboutme/
 author_profile: true
 ---
-# 👋 Hi, I'm Sourish Chatterjee
 
-## 📄 Resume
+## 📄 Check out My Resume
 <div style="text-align: center; margin: 30px 0;">
   <a href="/files/Sourish_Chatterjee.pdf" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">
-    <i class="fas fa-file-alt" style="margin-right: 10px;"></i> Check out my Resume
+    <i class="fas fa-file-alt" style="margin-right: 10px;"></i> My Resume
   </a>
 </div>
 
@@ -24,29 +23,16 @@ I'm a tech enthusiast with a deep passion for AI and ML. My journey began at Ram
 It all started with a spark—a fascination with how technology could unlock the mysteries of the universe, inspired by the genius of _Tony Stark_. Today, I channel that spark into:
 
 - Crafting models that push the boundaries of Artificial Intelligence
-- Predicting [stock markets](https://github.com/sourize/The-Nifty-50-Stock-Prediction-using-Machine-Learning)
-- [Evolving game AI](https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm)
+- Predicting [stock markets](/posts/2024/05/TheNifty50StockPredictionUsingMachineLearning/)
+- [Evolving game AI](/posts/2024/07/AIPoweredFlappyBirdGameUsingNEATAlgorithm/)
 
 ## 🔧 My Toolkit
 
-<table style="color: #333; background-color: #f8f8f8; border: 1px solid #ccc;">
-  <tr>
-    <th style="padding: 10px; border: 1px solid #ccc; background-color: #e8e8e8;">Skill</th>
-    <th style="padding: 10px; border: 1px solid #ccc; background-color: #e8e8e8;">Description</th>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ccc;"><strong>AI/ML Wizardry</strong></td>
-    <td style="padding: 10px; border: 1px solid #ccc;">Bringing ideas to life using neural networks, random forests, and other ML models. Python is my go-to language.</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ccc;"><strong>Data Whisperer</strong></td>
-    <td style="padding: 10px; border: 1px solid #ccc;">Transforming raw data into actionable insights with Pandas, Numpy, and Matplotlib.</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; border: 1px solid #ccc;"><strong>Team Player</strong></td>
-    <td style="padding: 10px; border: 1px solid #ccc;">Collaborating effectively through internships, hackathons, and group projects.</td>
-  </tr>
-</table>
+- **AI/ML Wizardry**: Bringing ideas to life using neural networks, random forests, and other ML models. Python is my go-to language.
+
+- **Data Whisperer**: Transforming raw data into actionable insights with Pandas, Numpy, and Matplotlib.
+
+- **Team Player**: Collaborating effectively through internships, hackathons, and group projects.
 
 👉 Curious about my tools? Check out my [Technical Skills](/skills.md/).
 

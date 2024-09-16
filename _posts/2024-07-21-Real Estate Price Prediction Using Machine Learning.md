@@ -1,7 +1,7 @@
 ---
 title: 'Real Estate Price Prediction Using Machine Learning'
 date: 2024-07-21
-permalink: /posts/2024/07/Real Estate Price Prediction Using Machine Learning/
+permalink: /posts/2024/07/RealEstatePricePredictionUsingMachineLearning/
 tags:
   - ML Model
  

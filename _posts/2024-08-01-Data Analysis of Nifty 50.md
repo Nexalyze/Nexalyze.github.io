@@ -1,7 +1,7 @@
 ---
 title: 'Data Analysis of Nifty 50'
 date: 2024-08-01
-permalink: /posts/2024/08/Data Analysis of Nifty 50/
+permalink: /posts/2024/08/DataAnalysisofNifty50/
 tags:
   - Data Analysis
 
