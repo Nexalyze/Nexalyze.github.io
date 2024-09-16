@@ -19,7 +19,7 @@ author_profile: true
 - Engineered and optimized advanced ML algorithms, significantly enhancing model performance
 - Collaborated effectively with cross-functional teams to deliver high-quality solutions aligned with project objectives
 
-[View Certificate](https://drive.google.com/file/d/1Bm0SkUWhtAguFByzbxeUJNCFfG8pfwhw/view){: .btn .btn--primary}
+[View Certificate](https://drive.google.com/file/d/1Bm0SkUWhtAguFByzbxeUJNCFfG8pfwhw/view){: .btn .btn--success}
 
 ---
 
@@ -32,4 +32,4 @@ author_profile: true
 - Generated actionable, data-driven insights to inform strategic decision-making processes
 - Collaborated within a multidisciplinary team to refine and enhance data analysis methodologies
 
-[View Project on GitHub](https://github.com/Nexalyze){: .btn .btn--info} [View Certificate](https://drive.google.com/file/d/1SuaJ0b2P5EgZkDH_D8b4AQpKMd0qZIxT/view){: .btn .btn--primary}
+[View Project on GitHub](https://github.com/Nexalyze){: .btn .btn--info} [View Certificate](https://drive.google.com/file/d/1SuaJ0b2P5EgZkDH_D8b4AQpKMd0qZIxT/view){: .btn .btn--success}
