@@ -6,48 +6,43 @@ author_profile: true
 ---
 
 <style>
-  .accordion-container {
-    max-width: 800px;
-    margin: 0 auto;
+  .carousel-container {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
   }
-  .project-accordion {
+  .carousel {
+    display: flex;
+    transition: transform 0.5s ease;
+  }
+  .project-card {
+    flex: 0 0 100%;
     background-color: #1E3D58;
     color: white;
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-    font-size: 15px;
-    transition: 0.4s;
-    border-radius: 5px;
-    margin-bottom: 10px;
-  }
-  .project-accordion:hover {
-    background-color: #2980b9;
-  }
-  .project-panel {
-    padding: 0 18px;
-    background-color: #f1f1f1;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
   }
   .project-image {
-    width: 100%;
-    max-width: 300px;
-    height: auto;
-    border-radius: 5px;
-    margin-top: 10px;
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  .project-title {
+    color: #3498db;
   }
   .project-description {
-    color: #333;
+    max-width: 600px;
     margin: 10px 0;
   }
   .project-categories {
     font-style: italic;
-    color: #666;
+    color: #bbb;
     margin: 10px 0;
   }
   .project-links a {
@@ -57,43 +52,64 @@ author_profile: true
     color: white;
     text-decoration: none;
     border-radius: 5px;
-    margin: 5px 5px 5px 0;
+    margin: 5px;
     transition: background-color 0.3s ease;
   }
   .project-links a:hover {
     background-color: #2c3e50;
   }
+  .carousel-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  .carousel-button.prev { left: 10px; }
+  .carousel-button.next { right: 10px; }
 </style>
 
-<div class="accordion-container">
-  {% for project in site.data.projects %}
-    <button class="project-accordion">{{ project.title }}</button>
-    <div class="project-panel">
-      <img class="project-image" src="{{ project.image }}" alt="{{ project.title }}">
-      <p class="project-description">{{ project.description }}</p>
-      <p class="project-categories"><strong>Categories:</strong> {{ project.categories | join: ", " }}</p>
-      <div class="project-links">
-        {% for link in project.links %}
-          <a href="{{ link.url }}">{{ link.text }}</a>
-        {% endfor %}
+<div class="carousel-container">
+  <div class="carousel">
+    {% for project in site.data.projects %}
+      <div class="project-card">
+        <img class="project-image" src="{{ project.image }}" alt="{{ project.title }}">
+        <h2 class="project-title">{{ project.title }}</h2>
+        <p class="project-description">{{ project.description }}</p>
+        <p class="project-categories"><strong>Categories:</strong> {{ project.categories | join: ", " }}</p>
+        <div class="project-links">
+          {% for link in project.links %}
+            <a href="{{ link.url }}">{{ link.text }}</a>
+          {% endfor %}
+        </div>
       </div>
-    </div>
-  {% endfor %}
+    {% endfor %}
+  </div>
+  <button class="carousel-button prev">&lt;</button>
+  <button class="carousel-button next">&gt;</button>
 </div>
 
 <script>
-  var acc = document.getElementsByClassName("project-accordion");
-  var i;
+  const carousel = document.querySelector('.carousel');
+  const prevButton = document.querySelector('.prev');
+  const nextButton = document.querySelector('.next');
+  let currentIndex = 0;
 
-  for (i = 0; i < acc.length; i++) {
-    acc[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      var panel = this.nextElementSibling;
-      if (panel.style.maxHeight) {
-        panel.style.maxHeight = null;
-      } else {
-        panel.style.maxHeight = panel.scrollHeight + "px";
-      } 
-    });
+  function showProject(index) {
+    const offset = index * -100;
+    carousel.style.transform = `translateX(${offset}%)`;
   }
+
+  prevButton.addEventListener('click', () => {
+    currentIndex = (currentIndex - 1 + {{ site.data.projects.size }}) % {{ site.data.projects.size }};
+    showProject(currentIndex);
+  });
+
+  nextButton.addEventListener('click', () => {
+    currentIndex = (currentIndex + 1) % {{ site.data.projects.size }};
+    showProject(currentIndex);
+  });
 </script>
