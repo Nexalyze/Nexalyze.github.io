@@ -7,9 +7,9 @@ author_profile: true
 
 <h1 class="page-title">Technical Proficiencies</h1>
 
-<div class="skills-grid">
+<div class="skills-container">
   <div class="skill-category">
-    <h3><span class="icon">💻</span>Programming Languages</h3>
+    <h3>Programming Languages</h3>
     <ul>
       <li>Python</li>
       <li>Java</li>
@@ -18,7 +18,7 @@ author_profile: true
   </div>
 
   <div class="skill-category">
-    <h3><span class="icon">🔧</span>Tools & Libraries</h3>
+    <h3>Tools & Libraries</h3>
     <ul>
       <li>Pandas</li>
       <li>NumPy</li>
@@ -29,7 +29,7 @@ author_profile: true
   </div>
 
   <div class="skill-category">
-    <h3><span class="icon">📊</span>Data Analysis</h3>
+    <h3>Data Analysis</h3>
     <ul>
       <li>Data Preprocessing</li>
       <li>Data Cleaning</li>
@@ -38,7 +38,7 @@ author_profile: true
   </div>
 
   <div class="skill-category">
-    <h3><span class="icon">☁️</span>Platforms</h3>
+    <h3>Platforms</h3>
     <ul>
       <li>Google Cloud</li>
       <li>GitHub</li>
@@ -47,7 +47,7 @@ author_profile: true
   </div>
 
   <div class="skill-category">
-    <h3><span class="icon">🛠️</span>Development Environments</h3>
+    <h3>Development Environments</h3>
     <ul>
       <li>Google Colab</li>
       <li>Jupyter Notebooks</li>
@@ -59,49 +59,44 @@ author_profile: true
 <style>
   .page-title {
     text-align: center;
-    color: #2c3e50;
+    color: #333;
     font-size: 2.5em;
-    margin-bottom: 40px;
+    margin-bottom: 2em;
   }
-  .skills-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 30px;
+  .skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 2em;
   }
   .skill-category {
-    background-color: #ffffff;
-    border-radius: 8px;
-    padding: 25px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
-  }
-  .skill-category:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    flex: 1 1 250px;
+    max-width: 300px;
   }
   .skill-category h3 {
-    color: #3498db;
-    font-size: 1.4em;
-    margin-bottom: 20px;
-    border-bottom: 2px solid #3498db;
-    padding-bottom: 10px;
+    color: #0077b6;
+    font-size: 1.3em;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid #0077b6;
   }
   .skill-category ul {
     list-style-type: none;
     padding-left: 0;
   }
   .skill-category li {
-    margin-bottom: 10px;
-    color: #34495e;
-    font-size: 1.1em;
-  }
-  .icon {
-    font-size: 1.3em;
-    margin-right: 10px;
+    margin-bottom: 0.5em;
+    color: #333;
+    font-size: 1em;
   }
   @media (max-width: 768px) {
-    .skills-grid {
-      grid-template-columns: 1fr;
+    .skills-container {
+      flex-direction: column;
+      align-items: center;
+    }
+    .skill-category {
+      width: 100%;
+      max-width: none;
     }
   }
 </style>
