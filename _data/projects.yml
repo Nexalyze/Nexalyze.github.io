@@ -1,0 +1,22 @@
+- title: "AI-Powered Flappy Bird Game"
+  image: "/images/Flappy3D.webp"
+  description: "An AI powered Flappy Bird Using NEAT (NeuroEvolution of Augmenting Topologies) Algorithm"
+  categories: 
+    - AI
+    - Game
+  links:
+    - text: "Code"
+      url: "https://github.com/sourize/AI-Powered-Flappy-Bird-Game-Using-NEAT-Algorithm"
+
+- title: "Data Analysis of NIFTY 50 Dataset"
+  image: "/images/DA.jpg"
+  description: "A Analysis of Nifty 50 Stocks over the years."
+  categories:
+    - Data Analysis
+  links:
+    - text: "Code"
+      url: "https://github.com/sourize/Data-Analysis-of-NIFTY-50-Dataset"
+    - text: "PDF"
+      url: "https://github.com/sourize/Data-Analysis-of-NIFTY-50-Dataset/blob/main/DataAnalysis_on_Nifty%2050.pdf"
+
+# Add more projects following the same structure
