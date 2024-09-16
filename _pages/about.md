@@ -17,7 +17,7 @@ redirect_from:
 
 ### 🚀 About Me
 
-I'm an undergrad at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/), deeply passionate about **Artificial Intelligence** and **Machine Learning**. My journey in tech began with childhood fascination, sparked by sci-fi wonders like _Iron Man_. Today, I'm channeling that inspiration into tangible innovations, bridging the gap between imagination and reality in the world of AI and ML.
+I’m an undergrad at [MSIT](https://www.linkedin.com/school/meghnadsahainstituteoftechnology/) with a passion for **Artificial Intelligence** and **Machine Learning**. My fascination with technology started early, inspired by the magic of movies like _Iron Man_, and now I’m on a mission to turn that inspiration into innovation.
 
 ### 🌟 Current Focus
 
